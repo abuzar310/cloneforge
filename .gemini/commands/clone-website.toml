@@ -78,6 +78,10 @@ Examples of behaviors to watch for — these are illustrative, not exhaustive. T
 - **Tabbed/pill content that cycles** — buttons that switch visible card sets with transitions
 - **Scroll-driven tab/accordion switching** — sidebars where the active item auto-changes as content scrolls past (IntersectionObserver, NOT click handlers)
 - **Smooth scroll libraries** (Lenis, Locomotive Scroll) — check for `.lenis` class or scroll container wrappers
+- **Scroll-driven animations** (`animation-timeline`, `scroll()`, `view()`) — extract timeline + ranges, not only keyframes
+- **View Transitions API** — document `view-transition-name` and whether navigations/state changes use `startViewTransition`
+- **Container queries** — note `@container` names/types and which styles flip at which container widths (not just viewport breakpoints)
+- **CSS `color-mix`, relative color, oklch/oklab** — capture computed RGB/oklch values *and* the authored token if visible in stylesheets
 
 ### 6. Identify the Interaction Model Before Building
 

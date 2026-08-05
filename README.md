@@ -19,6 +19,10 @@
   <a href="#supported-agents">Agents</a>
 </p>
 
+<p align="center">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/abuzar310/cloneforge"><img src="https://vercel.com/button" alt="Deploy with Vercel" /></a>
+</p>
+
 ---
 
 Point your AI coding agent at a URL, run `/clone-website`, and watch it:
@@ -146,6 +150,8 @@ Forked and evolved from [JCodesMore/ai-website-cloner-template](https://github.c
 [![Star History Chart](https://api.star-history.com/svg?repos=abuzar310/cloneforge&type=Date)](https://star-history.com/#abuzar310/cloneforge&Date)
 
 If CloneForge saves you a weekend — **star the repo**. It helps others find it.
+
+Growth ideas for maintainers: [`docs/STAR_PLAYBOOK.md`](./docs/STAR_PLAYBOOK.md).
 
 ## License
 
