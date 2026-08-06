@@ -1,0 +1,678 @@
+{
+  "title": "Wembi • Instant Digital Twin",
+  "metaDescription": "Wembi trasforma macchinari e asset IoT in Digital Twin intelligenti, con monitoraggio in tempo reale, controllo remoto e gestione avanzata degli impianti.",
+  "fonts": [
+    "\"Times New Roman\"",
+    "HaasUnicaSH-Medium, Helvetica, sans-serif",
+    "HaasUnicaSH-Regular, Helvetica, sans-serif",
+    "ductile, Helvetica, sans-serif",
+    ""
+  ],
+  "fontLinks": [
+    "https://www.wembi.ai/_nuxt/entry.UBSe8SLB.css",
+    "https://www.wembi.ai/_nuxt/index.P4_dpxRc.css"
+  ],
+  "favicons": [],
+  "sections": [
+    {
+      "i": 0,
+      "tag": "div",
+      "id": null,
+      "classes": "hero",
+      "top": 19,
+      "height": 1785,
+      "textPreview": "N°001 Il Gemello Digitale di ogni cosa Wembi migliora all'istante le performance di qualsiasi dispositivo, macchinario o apparato digitale attraverso la creazione della sua replica"
+    },
+    {
+      "i": 1,
+      "tag": "svg",
+      "id": "logo",
+      "classes": "[object SVGAnimatedString]",
+      "top": 56,
+      "height": 237,
+      "textPreview": ""
+    },
+    {
+      "i": 2,
+      "tag": "div",
+      "id": null,
+      "classes": "hero__content",
+      "top": 840,
+      "height": 926,
+      "textPreview": "N°001 Il Gemello Digitale di ogni cosa Wembi migliora all'istante le performance di qualsiasi dispositivo, macchinario o apparato digitale attraverso la creazione della sua replica"
+    },
+    {
+      "i": 3,
+      "tag": "div",
+      "id": null,
+      "classes": "mini-t fs-base hero__minititle sp-60 c-accent",
+      "top": 840,
+      "height": 13,
+      "textPreview": "N°001 Il Gemello Digitale di ogni cosa"
+    },
+    {
+      "i": 4,
+      "tag": "div",
+      "id": null,
+      "classes": "text ff-regular hero__text col-8-d fs-130",
+      "top": 898,
+      "height": 755,
+      "textPreview": "Wembi migliora all'istante le performance di qualsiasi dispositivo, macchinario o apparato digitale attraverso la creazione della sua replica virtuale."
+    },
+    {
+      "i": 5,
+      "tag": "div",
+      "id": null,
+      "classes": "media has-image video-ready hero__bg",
+      "top": 19,
+      "height": 1785,
+      "textPreview": ""
+    },
+    {
+      "i": 6,
+      "tag": "section",
+      "id": null,
+      "classes": "section-text what",
+      "top": 1823,
+      "height": 1142,
+      "textPreview": "N.001 WHAT N.001 N°001Il Gemello Digitale di ogni cosa Un Digital Twin intelligente totalmente gestibile da remoto e in real time, che per il suo funzionamento individua predittiva"
+    },
+    {
+      "i": 7,
+      "tag": "section",
+      "id": null,
+      "classes": "service-list sp-60",
+      "top": 3040,
+      "height": 1500,
+      "textPreview": "N.002 HOW N.002 Digital Twin Functioning"
+    },
+    {
+      "i": 8,
+      "tag": "section",
+      "id": null,
+      "classes": "steps is-lrt sp-100",
+      "top": 4585,
+      "height": 900,
+      "textPreview": "01 Digital Twin Data Device Application Acquisizione e normalizzazione dei dati provenienti dai dispositivi sul campo: raccolta, analisi e visualizzazione. Gestione da remoto deg"
+    },
+    {
+      "i": 9,
+      "tag": "section",
+      "id": null,
+      "classes": "steps sp-100",
+      "top": 10060,
+      "height": 900,
+      "textPreview": "02 Functioning Acquisizione Controllo Predizione Trasformazione in tempo reale del comportamento fisico dell’apparato in dati e informazioni digitali utili. Interpretazione e val"
+    },
+    {
+      "i": 10,
+      "tag": "section",
+      "id": null,
+      "classes": "section-text-list sp-20",
+      "top": 15535,
+      "height": 1500,
+      "textPreview": "N.003 WHY N.003 Efficace Sostenibile Efficiente Libero"
+    },
+    {
+      "i": 11,
+      "tag": "section",
+      "id": null,
+      "classes": "accordion-list sp-100",
+      "top": 17050,
+      "height": 1430,
+      "textPreview": "N.004 WHERE N.004 Industrial Energy Aerospace Medical"
+    },
+    {
+      "i": 12,
+      "tag": "section",
+      "id": null,
+      "classes": "faq sp-20",
+      "top": 18555,
+      "height": 1348,
+      "textPreview": "N.005 QUESTIONS N.005 FAQ Per rendere tutto più semplice, abbiamo raccolto qui le risposte alle domande più frequenti. N°01 N°02 N°03 N°04 N°05 Wemby è una piattaforma Web che perm"
+    },
+    {
+      "i": 13,
+      "tag": "section",
+      "id": null,
+      "classes": "contact sp-200",
+      "top": 19918,
+      "height": 901,
+      "textPreview": "N.006 CONTACT N.006 Il tuo cambiamento parte da qui. Contattaci. Mail Phone"
+    },
+    {
+      "i": 14,
+      "tag": "footer",
+      "id": null,
+      "classes": "footer",
+      "top": 20969,
+      "height": 407,
+      "textPreview": "Headquarter Via Cotonificio, 45 33010 - Feletto Umberto Udine - Italy Contact Phone - +39 351 609 7589 Mail - info@wembi.ai P.IVA & C.F. 03148630308 Wembi powered by Innoverse Gr"
+    }
+  ],
+  "blocks": [
+    {
+      "i": 0,
+      "tag": "div",
+      "classes": "page",
+      "top": 19,
+      "height": 21358,
+      "textPreview": "N°001 Il Gemello Digitale di ogni cosa Wembi migliora all'istante le performance di qualsiasi dispositivo, macchinario o apparato digitale attraverso la creazio"
+    }
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(237, 232, 232)",
+    "rgb(255, 255, 255)",
+    "rgb(190, 255, 139)",
+    "rgb(192, 223, 233)",
+    "rgb(213, 186, 251)",
+    "oklab(0.999994 0.0000455678 0.0000200868 / 0.4)"
+  ],
+  "images": [
+    {
+      "src": "https://www.wembi.ai/cms/uploads/1_HEADER_WEMBI_42e842a611.jpg",
+      "alt": "",
+      "w": 1080,
+      "h": 1373,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/2_HOW_WEMBI_32815ecf42.jpg",
+      "alt": "",
+      "w": 1080,
+      "h": 1154,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/5_WHY_WEMBI_704253f0b4.jpg",
+      "alt": "",
+      "w": 1080,
+      "h": 1155,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/1_HEADER_WEMBI_42e842a611.jpg",
+      "alt": "",
+      "w": 1080,
+      "h": 1373,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/2_HOW_WEMBI_32815ecf42.jpg",
+      "alt": "",
+      "w": 1080,
+      "h": 1154,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/3_A_Digital_Twin_08a265d77f.jpg",
+      "alt": "",
+      "w": 1870,
+      "h": 2000,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/3_B_Digital_Twin_56b0bea44e.jpg",
+      "alt": "",
+      "w": 1870,
+      "h": 2000,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/3_C_Application_4b8a514fd1.jpg",
+      "alt": "",
+      "w": 1870,
+      "h": 2000,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/4_A_Functioning_Acquisizione_6a2a16989e.jpg",
+      "alt": "",
+      "w": 1870,
+      "h": 2000,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/4_B_Functioning_Controllo_d73a25880c.jpg",
+      "alt": "",
+      "w": 1870,
+      "h": 2000,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/4_C_Functioning_Prediction_51a31c4019.jpg",
+      "alt": "",
+      "w": 1870,
+      "h": 2000,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://www.wembi.ai/cms/uploads/5_WHY_WEMBI_704253f0b4.jpg",
+      "alt": "",
+      "w": 1080,
+      "h": 1155,
+      "position": "static",
+      "zIndex": "auto"
+    }
+  ],
+  "videos": [
+    {
+      "src": "https://www.wembi.ai/home.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/pipeline.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/field.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/home.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/pipeline.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/stepper/1A.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/stepper/1B.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/stepper/1C.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/stepper/2A.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/stepper/2B.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/stepper/2C.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/why.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    },
+    {
+      "src": "https://www.wembi.ai/field.webm",
+      "poster": "",
+      "autoplay": true,
+      "loop": true,
+      "muted": true
+    }
+  ],
+  "bgImages": [],
+  "svgs": [
+    {
+      "i": 0,
+      "viewBox": null,
+      "outer": "<svg width=\"53.08\" height=\"171.358\" data-v-31c88273=\"\"><path class=\"js-color-bg\" fill=\"white\" d=\"M0 0h53.08v171.358H0z\" data-v-31c88273=\"\"></path><g class=\"js-color-text\" fill=\"black\" data-v-31c88273=\"\"><path d=\"M30.016 151.575a3.599 3.599 0 0 1-2.484 1.878l-.965-1.535c.623-.155 1.126-.401 1.506-.737.38-.337.57-.768.57-1.293 0-.4-.101-.722-.301-.966-.199-.242-.504-.365-.912-.365-.254 0-.478.083-.674.249a2.423 2.423 0 0 0-.511.62c-.146.249-.331.603-.556 1.061l-.204.424c-.293.584-.66 1.052-1.104 1",
+      "parent": "A",
+      "aria": null,
+      "w": 53.078125,
+      "h": 171.34375
+    },
+    {
+      "i": 1,
+      "viewBox": "0 0 1724 308",
+      "outer": "<svg id=\"logo\" width=\"1724\" height=\"308\" viewBox=\"0 0 1724 308\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"hero__logo\" data-v-737c09ca=\"\" data-v-0e380769=\"\"><path id=\"w\" d=\"M0 17.7125C0 7.8722 7.86861 0 17.7044 0C22.6223 0 27.0484 1.96805 30.2099 5.20128C33.4416 8.36422 35.4088 12.7923 35.4088 17.7125V249.24C35.4088 262.173 45.8768 272.645 58.8038 272.645H118.38C120.067 272.645 121.682 272.856 123.228 273.348C130.745 275.316 136.577 281.783 136.858 289.725C136.998 294.083 135.593 298.",
+      "parent": "DIV",
+      "aria": null,
+      "w": 1327.5,
+      "h": 237.15625
+    },
+    {
+      "i": 2,
+      "viewBox": null,
+      "outer": "<svg class=\"text__bullet__filter\" data-v-f1e39d7c=\"\"><defs data-v-f1e39d7c=\"\"><filter id=\"meta\" data-v-f1e39d7c=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"10\" result=\"blur\" data-v-f1e39d7c=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" type=\"matrix\" values=\"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9\" result=\"goo\" data-v-f1e39d7c=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"goo\" operator=\"atop\" data-v-f1e39d7c=\"\"></feComposite></filter></defs></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 300,
+      "h": 150
+    },
+    {
+      "i": 3,
+      "viewBox": null,
+      "outer": "<svg class=\"text__bullet__filter\" data-v-f1e39d7c=\"\"><defs data-v-f1e39d7c=\"\"><filter id=\"meta\" data-v-f1e39d7c=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"10\" result=\"blur\" data-v-f1e39d7c=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" type=\"matrix\" values=\"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9\" result=\"goo\" data-v-f1e39d7c=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"goo\" operator=\"atop\" data-v-f1e39d7c=\"\"></feComposite></filter></defs></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 300,
+      "h": 150
+    },
+    {
+      "i": 4,
+      "viewBox": null,
+      "outer": "<svg class=\"pills-filter\" data-v-ef5fca38=\"\" data-v-b32a3099=\"\"><defs data-v-b32a3099=\"\"><filter id=\"v-0-0-0\" data-v-b32a3099=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"20\" result=\"blur\" data-v-b32a3099=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" mode=\"matrix\" values=\"1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 28 -20\" result=\"gooey\" data-v-b32a3099=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"gooey\" operator=\"atop\" data-v-b32a3099=\"\"></feComposite></filter></defs></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 300,
+      "h": 150
+    },
+    {
+      "i": 5,
+      "viewBox": null,
+      "outer": "<svg class=\"pills-filter\" data-v-ef5fca38=\"\" data-v-b32a3099=\"\"><defs data-v-b32a3099=\"\"><filter id=\"v-0-0-1\" data-v-b32a3099=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"20\" result=\"blur\" data-v-b32a3099=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" mode=\"matrix\" values=\"1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 28 -20\" result=\"gooey\" data-v-b32a3099=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"gooey\" operator=\"atop\" data-v-b32a3099=\"\"></feComposite></filter></defs></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 300,
+      "h": 150
+    },
+    {
+      "i": 6,
+      "viewBox": null,
+      "outer": "<svg class=\"text__bullet__filter\" data-v-f1e39d7c=\"\"><defs data-v-f1e39d7c=\"\"><filter id=\"meta\" data-v-f1e39d7c=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"10\" result=\"blur\" data-v-f1e39d7c=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" type=\"matrix\" values=\"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9\" result=\"goo\" data-v-f1e39d7c=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"goo\" operator=\"atop\" data-v-f1e39d7c=\"\"></feComposite></filter></defs></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 300,
+      "h": 150
+    },
+    {
+      "i": 7,
+      "viewBox": "0 0 73 73",
+      "outer": "<svg width=\"73\" height=\"73\" viewBox=\"0 0 73 73\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 25L42 37L30 49\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 51.203125,
+      "h": 60.265625
+    },
+    {
+      "i": 8,
+      "viewBox": "0 0 73 73",
+      "outer": "<svg width=\"73\" height=\"73\" viewBox=\"0 0 73 73\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 25L42 37L30 49\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 5.120361328125,
+      "h": 6.02734375
+    },
+    {
+      "i": 9,
+      "viewBox": "0 0 73 73",
+      "outer": "<svg width=\"73\" height=\"73\" viewBox=\"0 0 73 73\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 25L42 37L30 49\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 51.1875,
+      "h": 60.265625
+    },
+    {
+      "i": 10,
+      "viewBox": "0 0 73 73",
+      "outer": "<svg width=\"73\" height=\"73\" viewBox=\"0 0 73 73\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 25L42 37L30 49\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"></path></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 5.11865234375,
+      "h": 6.02734375
+    },
+    {
+      "i": 11,
+      "viewBox": null,
+      "outer": "<svg class=\"pills-filter\" data-v-ef5fca38=\"\" data-v-b32a3099=\"\"><defs data-v-b32a3099=\"\"><filter id=\"v-0-0-2\" data-v-b32a3099=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"20\" result=\"blur\" data-v-b32a3099=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" mode=\"matrix\" values=\"1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 28 -20\" result=\"gooey\" data-v-b32a3099=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"gooey\" operator=\"atop\" data-v-b32a3099=\"\"></feComposite></filter></defs></svg>",
+      "parent": "DIV",
+      "aria": null,
+      "w": 300,
+      "h": 150
+    }
+  ],
+  "links": [
+    {
+      "text": "Mail",
+      "href": "mailto:info@wembi.ai"
+    },
+    {
+      "text": "Phone",
+      "href": "tel:+393516097589"
+    },
+    {
+      "text": "",
+      "href": "https://www.awwwards.com/sites/wembi"
+    },
+    {
+      "text": "Mail",
+      "href": "mailto:info@wembi.ai"
+    },
+    {
+      "text": "Phone",
+      "href": "tel:+393516097589"
+    },
+    {
+      "text": "Via Cotonificio, 4533010 - Feletto UmbertoUdine - Italy",
+      "href": "https://maps.app.goo.gl/KidxgpAS2TgGTrXc7"
+    },
+    {
+      "text": "Phone - +39 351 609 7589",
+      "href": "mailto:info@wembi.ai"
+    },
+    {
+      "text": "Mail - info@wembi.ai",
+      "href": "tel:+393516097589"
+    },
+    {
+      "text": "P.IVA & C.F. 03148630308",
+      "href": ""
+    },
+    {
+      "text": "Wembi powered by Innoverse Group",
+      "href": "https://innoversegroup.it/"
+    },
+    {
+      "text": "Cookie",
+      "href": "https://www.iubenda.com/privacy-policy/80665257/cookie-policy"
+    },
+    {
+      "text": "Privacy",
+      "href": "https://www.iubenda.com/privacy-policy/80665257"
+    },
+    {
+      "text": "Credits",
+      "href": "https://www.e-t.studio/"
+    },
+    {
+      "text": "cookie policy",
+      "href": "https://www.iubenda.com/privacy-policy/80665257/cookie-policy?an=no&s_ck=false&newmarkup=yes"
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Close",
+      "tag": "BUTTON",
+      "classes": "close fs-base"
+    },
+    {
+      "text": "What",
+      "tag": "BUTTON",
+      "classes": "nav__button fs-base"
+    },
+    {
+      "text": "How",
+      "tag": "BUTTON",
+      "classes": "nav__button fs-base"
+    },
+    {
+      "text": "Why",
+      "tag": "BUTTON",
+      "classes": "nav__button fs-base"
+    },
+    {
+      "text": "Where",
+      "tag": "BUTTON",
+      "classes": "nav__button fs-base"
+    },
+    {
+      "text": "Overview",
+      "tag": "BUTTON",
+      "classes": "nav__button"
+    },
+    {
+      "text": "Recap",
+      "tag": "BUTTON",
+      "classes": "nav__button"
+    },
+    {
+      "text": "Menu  Close",
+      "tag": "BUTTON",
+      "classes": "nav__button"
+    },
+    {
+      "text": "Contact",
+      "tag": "BUTTON",
+      "classes": "nav__button"
+    },
+    {
+      "text": "Industrial",
+      "tag": "BUTTON",
+      "classes": "accordion__item__title"
+    },
+    {
+      "text": "Energy",
+      "tag": "BUTTON",
+      "classes": "accordion__item__title"
+    },
+    {
+      "text": "Aerospace",
+      "tag": "BUTTON",
+      "classes": "accordion__item__title"
+    },
+    {
+      "text": "Medical",
+      "tag": "BUTTON",
+      "classes": "accordion__item__title"
+    },
+    {
+      "text": "N°01",
+      "tag": "BUTTON",
+      "classes": "is-checked tabs__label__wrap"
+    },
+    {
+      "text": "N°02",
+      "tag": "BUTTON",
+      "classes": "tabs__label__wrap"
+    },
+    {
+      "text": "N°03",
+      "tag": "BUTTON",
+      "classes": "tabs__label__wrap"
+    },
+    {
+      "text": "N°04",
+      "tag": "BUTTON",
+      "classes": "tabs__label__wrap"
+    },
+    {
+      "text": "N°05",
+      "tag": "BUTTON",
+      "classes": "tabs__label__wrap"
+    },
+    {
+      "text": "Read answer",
+      "tag": "BUTTON",
+      "classes": "tabs__controls__cta"
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "classes": "tabs__controls__nav is-prev"
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "classes": "tabs__controls__nav"
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "classes": "iubenda-cs-close-btn"
+    },
+    {
+      "text": "Scopri di più e personalizza",
+      "tag": "BUTTON",
+      "classes": "iubenda-cs-customize-btn"
+    },
+    {
+      "text": "Rifiuta",
+      "tag": "BUTTON",
+      "classes": "iubenda-cs-reject-btn iubenda-cs-btn-primary"
+    },
+    {
+      "text": "Accetta",
+      "tag": "BUTTON",
+      "classes": "iubenda-cs-accept-btn iubenda-cs-btn-primary"
+    }
+  ],
+  "stylesheets": 33,
+  "styleTagsSample": [
+    ".shell[data-v-31c88273]{left:0;position:fixed;top:0;z-index:10000}",
+    "#transition[data-v-f2f7a468]{display:grid;grid-template-rows:auto;height:var(--height);left:0;pointer-events:none;position:fixed;top:0;width:100vw;z-index:20}.transition__line[data-v-f2f7a468]{display:grid;grid-auto-flow:column}.transition__cell[data-v-f2f7a468]{background:var(--c-accent);opacity:0}.transition__text[data-v-f2f7a468]{clip-path:inset(-10% -10% -10% -10%);place-self:center;position:absolute;z-index:2}.transition__text__word[data-v-f2f7a468]{color:#fff;display:flex;text-transform:capitalize;transform:translateY(110%)}",
+    "#app-loader[data-v-67a3340d]{align-items:center;background:var(--c-accent);color:var(--c-text);display:flex;height:var(--height);justify-content:center;left:0;overflow:hidden;position:fixed;top:0;width:100vw;z-index:40}#app-loader .progress[data-v-67a3340d]{background:#000;bottom:var(--offset);height:2px;transform:scaleX(0);transform-origin:left}#app-loader .number[data-v-67a3340d],#app-loader .progress[data-v-67a3340d]{left:var(--offset);position:absolute;width:var(--width)}#app-loader .number[data-v-67a3340d]{bottom:calc(var(--offset) + var(--offset-half));display:flex}#app-loader h3[data-v-67a3340d]{align-items:center;display:flex;flex-direction:column;justify-content:center;text-align:center}@media screen and (min-width:768px){#app-loader h3[data-v-67a3340d]{flex-direction:row;width:var(--col-8)}}#app-loader .mask[data-v-67a3340d]{clip-path:inset(-10% 0 0 0);display:inline-block;white-space:pre}#app-loader .word[data-v-67a3340d]{display:flex;transform:translateY(105%)}#app-loader .word span[data-v-67a3340d]{display:inline-block}",
+    "#menu[data-v-4e9aa31e]{align-items:center;display:flex;height:var(--height);pointer-events:none;position:fixed;top:0;visibility:hidden;width:100vw;z-index:20}@media screen and (min-width:1024px){#menu[data-v-4e9aa31e]{padding:2.5rem}}.menu__inner[data-v-4e9aa31e]{display:flex;flex-wrap:nowrap;gap:var(--gutter);height:100%;padding:2.5rem;width:100%}.menu__inner[data-v-4e9aa31e]::-webkit-scrollbar{display:none}@media screen and (min-width:1024px){.menu__inner[data-v-4e9aa31e]{gap:0;padding:0}}@media screen and (min-width:1024px){.menu__inner:has(.card:nth-child(2):hover) .card[data-v-4e9aa31e]:nth-child(-n+1),.menu__inner:has(.card:nth-child(3):hover) .card[data-v-4e9aa31e]:nth-child(-n+2),.menu__inner:has(.card:nth-child(4):hover) .card[data-v-4e9aa31e]:nth-child(-n+3),.menu__inner:has(.card:nth-child(5):hover) .card[data-v-4e9aa31e]:nth-child(-n+4){--x:calc(var(--distance)*-1.2)}.menu__inner:has(.card:first-child:hover) .card[data-v-4e9aa31e]:nth-child(n+2),.menu__inner:has(.card:nth-child(2):hover) .card[data-v-4e9aa31e]:nth-child(n+3),.menu__inner:has(.card:nth-child(3):hover) .card[data-v-4e9aa31e]:nth-child(n+4),.menu__inner:has(.card:nth-child(4):hover) .card[data-v-4e9aa31e]:nth-child(n+5){--x:calc(var(--distance)*1.2)}}@media screen and (max-width:1023.8px){.menu__inner[data-v-4e9aa31e]{scroll-padding-inline:2.5rem;scroll-snap-type:x mandatory;scrollbar-width:none}.menu__inner[data-v-4e9aa31e]::-webkit-scrollbar{display:none}}.close[data-v-4e9aa31e]{background:#000;border-radius:10rem;bottom:var(--offset);color:#fff;cursor:pointer;height:6rem;left:0;margin-block:auto;margin:0 auto;padding:.4rem 3.5rem 0;position:absolute;right:0;transform:translateY(150%) scale(0);transition:transform .5s cubic-bezier(.5,0,0,1);z-index:22}body.has-menu .close[data-v-4e9aa31e]{transform:translateY(0) scale(1);transition:transform .5s cubic-bezier(.5,0,0,1) 1s}",
+    "#cursor[data-v-1c2ce3e6]{aspect-ratio:1;background:var(--c-accent);border-radius:1.2rem;left:0;opacity:1;pointer-events:none;position:fixed;top:0;transform:translate3d(calc(var(--x)*1px),calc(var(--y)*1px),0);transform-origin:center;width:1.2rem;z-index:45}@media screen and (max-width:767.8px){#cursor[data-v-1c2ce3e6]{display:none}}"
+  ],
+  "body": {
+    "backgroundColor": "rgb(237, 232, 232)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "HaasUnicaSH-Medium, Helvetica, sans-serif",
+    "fontSize": "12px",
+    "overflow": "hidden auto"
+  },
+  "htmlBg": "rgba(0, 0, 0, 0)",
+  "hasLenis": true,
+  "scrollHeight": 21377,
+  "htmlSnippet": "<html class=\"hide-touch-nav lenis\" style=\"scroll-behavior: smooth;\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Wembi • Instant Digital Twin </title><script data-cmp-ab=\"2\" src=\"https://cdn.iubenda.com/cookie_solution/iubenda_cs/1.104.2/core-it.js\" charset=\"UTF-8\" data-cmp-info=\"2\"></script><script type=\"text/javascript\" src=\"https://embeds.iubenda.com/widgets/2484e8e3-8d11-4b22-a541-28b103ae407d.js\" data-cmp-info=\"13\" data-cmp-ab=\"2\"></script><style>.shell[data-v-31c88273]{left:0;position:fixed;top:0;z-index:10000}</style><style>#transition[data-v-f2f7a468]{display:grid;grid-template-rows:auto;height:var(--height);left:0;pointer-events:none;position:fixed;top:0;width:100vw;z-index:20}.transition__line[data-v-f2f7a468]{display:grid;grid-auto-flow:column}.transition__cell[data-v-f2f7a468]{background:var(--c-accent);opacity:0}.transition__text[data-v-f2f7a468]{clip-path:inset(-10% -10% -10% -10%);place-self:center;position:absolute;z-index:2}.transition__text__word[data-v-f2f7a468]{color:#fff;display:flex;text-transform:capitalize;transform:translateY(110%)}</style><style>#app-loader[data-v-67a3340d]{align-items:center;background:var(--c-accent);color:var(--c-text);display:flex;height:var(--height);justify-content:center;left:0;overflow:hidden;position:fixed;top:0;width:100vw;z-index:40}#app-loader .progress[data-v-67a3340d]{background:#000;bottom:var(--offset);height:2px;transform:scaleX(0);transform-origin:left}#app-loader .number[data-v-67a3340d],#app-loader .progress[data-v-67a3340d]{left:var(--offset);position:absolute;width:var(--width)}#app-loader .number[data-v-67a3340d]{bottom:calc(var(--offset) + var(--offset-half));display:flex}#app-loader h3[data-v-67a3340d]{align-items:center;display:flex;flex-direction:column;justify-content:center;text-align:center}@media screen and (min-width:768px){#app-loader h3[data-v-67a3340d]{flex-direction:row;width:var(--col-8)}}#app-loader .mask[data-v-67a3340d]{clip-path:inset(-10% 0 0 0);display:inline-block;white-space:pre}#app-loader .word[data-v-67a3340d]{display:flex;transform:translateY(105%)}#app-loader .word span[data-v-67a3340d]{display:inline-block}</style><style>#menu[data-v-4e9aa31e]{align-items:center;display:flex;height:var(--height);pointer-events:none;position:fixed;top:0;visibility:hidden;width:100vw;z-index:20}@media screen and (min-width:1024px){#menu[data-v-4e9aa31e]{padding:2.5rem}}.menu__inner[data-v-4e9aa31e]{display:flex;flex-wrap:nowrap;gap:var(--gutter);height:100%;padding:2.5rem;width:100%}.menu__inner[data-v-4e9aa31e]::-webkit-scrollbar{display:none}@media screen and (min-width:1024px){.menu__inner[data-v-4e9aa31e]{gap:0;padding:0}}@media screen and (min-width:1024px){.menu__inner:has(.card:nth-child(2):hover) .card[data-v-4e9aa31e]:nth-child(-n+1),.menu__inner:has(.card:nth-child(3):hover) .card[data-v-4e9aa31e]:nth-child(-n+2),.menu__inner:has(.card:nth-child(4):hover) .card[data-v-4e9aa31e]:nth-child(-n+3),.menu__inner:has(.card:nth-child(5):hover) .card[data-v-4e9aa31e]:nth-child(-n+4){--x:calc(var(--distance)*-1.2)}.menu__inner:has(.card:first-child:hover) .card[data-v-4e9aa31e]:nth-child(n+2),.menu__inner:has(.card:nth-child(2):hover) .card[data-v-4e9aa31e]:nth-child(n+3),.menu__inner:has(.card:nth-child(3):hover) .card[data-v-4e9aa31e]:nth-child(n+4),.menu__inner:has(.card:nth-child(4):hover) .card[data-v-4e9aa31e]:nth-child(n+5){--x:calc(var(--distance)*1.2)}}@media screen and (max-width:1023.8px){.menu__inner[data-v-4e9aa31e]{scroll-padding-inline:2.5rem;scroll-snap-type:x mandatory;scrollbar-width:none}.menu__inner[data-v-4e9aa31e]::-webkit-scrollbar{display:none}}.close[data-v-4e9aa31e]{background:#000;border-radius:10rem;bottom:var(--offset);color:#fff;cursor:pointer;height:6rem;left:0;margin-block:auto;margin:0 auto;padding:.4rem 3.5rem 0;position:absolute;right:0;transform:translateY(150%) scale(0);transition:transform .5s cubic-bezier(.5,0,0,1);z-index:22}body.has-menu .close[data-v-4e9aa31e]{transform:translateY(0) scale(1);transition:transform .5s cubic-bezier(.5,0,0,1) 1s}</style><style>#cursor[data-v-1c2ce3e6]{aspect-ratio:1;background:var(--c-accent);border-radius:1.2rem;left:0;opacity:1;pointer-events:none;position:fixed;top:0;transform:translate3d(calc(var(--x)*1px),calc(var(--y)*1px),0);transform-origin:center;width:1.2rem;z-index:45}@media screen and (max-width:767.8px){#cursor[data-v-1c2ce3e6]{display:none}}</style><style>@media screen and (max-width:767.8px){.nav--sections[data-v-18ef6d88]{display:none}}.site-nav[data-v-18ef6d88]{bottom:calc(var(--offset));display:flex;justify-content:space-between;left:0;margin-left:auto;margin-right:auto;pointer-events:none;position:fixed;right:0;transition:transform .5s cubic-bezier(.5,0,0,1);width:calc(var(--width) - var(--offset-double));z-index:25}.hide-nav .site-nav[data-v-18ef6d88],.lenis-scrolling.scrolling-down .site-nav[data-v-18ef6d88]{transform:translateY(150%)}@media screen and (max-width:1023.8px){.hide-touch-nav .site-nav[data-v-18ef6d88]{transform:translateY(150%)}}@media screen and (min-width:768px){html:has(.has-menu) .site-nav[data-v-18ef6d88]{transform:translateY(150%)}}</style><style>.nav[data-v-2004030a]{-webkit-backdrop-filter:blur(1rem);backdrop-filter:blur(1rem);background-color:color-mix(in oklab,var(--c-light) 40%,transparent);border-radius:100px;display:flex;height:6rem;padding:1rem;pointer-events:all;position:relative;width:-moz-fit-content;width:fit-content;z-index:15}@media screen and (max-width:767.8px){.nav[data-v-2004030a]{width:100%}}.nav__list[data-v-2004030a]{display:flex}@media screen and (max-width:767.8px){.nav__list[data-v-2004030a]{justify-content:space-between;width:100%}}.nav__button[data-v-2004030a]{cursor:pointer;height:4rem;padding:0 3rem;position:relative;text-transform:capitalize;z-index:10}.nav__button span[data-v-2004030a]{display:flex;height:.8cap;line-height:.9;position:relative}.nav__button span[data-v-2004030a]:before{background:var(--c-accent);border-radius:.8rem;content:\"\";height:.8rem;left:-1.5rem;position:absolute;top:.2rem;transform:scale(0);transition:transform .5s cubic-bezier(.19,1,.22,1);width:.8rem}@media screen and (max-width:767.8px){.nav__button span[data-v-2004030a]:before{top:-.1rem}}.is-active .nav__button span[data-v-2004030a]{pointer-events:none}.is-active .nav__button span[data-v-2004030a]:before{transform:scale(1)}.is-highlighted .nav__button[data-v-2004030a]{padding:0 3rem}.nav__item[data-v-2004030a]{cursor:pointer;position:relative;transition:margin-left .5s cubic-bezier(.19,1,.22,1)}.nav__item[data-v-2004030a]:before{background:var(--c-accent);border-radius:100px;content:\"\";height:100%;pointer-events:none;position:absolute;transform:scale(0);transition:transform .5s cubic-bezier(.19,1,.22,1);width:100%;z-index:5}.nav__item.is-highlighted[data-v-2004030a]{margin-left:1rem}.nav__item.is-highlighted[data-v-2004030a]:before{content:\"\";transform:scale(1)}.nav__item.is-highlighted[data-v-2004030a]:hover:before{transform:scale(.95)}.nav__item.is-highlighted[data-v-2004030a]:active:before{transform:scale(.9)}.nav__item.is-active[data-v-2004030a]{margin-left:1rem}</style><style>.link[data-v-bb9b6841]{cursor:pointer;display:inline-flex;height:-moz-fit-content;height:fit-content;line-height:100%;position:relative;width:-moz-fit-content;width:fit-content}.link[data-v-bb9b6841]:after{content:\"\";inset:-100%;position:absolute}.link.u[data-v-bb9b6841]{padding-bottom:.15em}.link[data-v-bb9b6841]:hover:before{left:0;transform:scaleX(0);transform-origin:right}.link.u[data-v-bb9b6841]:before{content:\"\"}.link[data-v-bb9b6841]:before{background:currentColor;bottom:0;height:.1em;left:0;pointer-events:none;position:absolute;right:0;transform-origin:left;transition:transform 1s cubic-bezier(.19,1,.22,1);width:100%}.link[data-v-bb9b6841]:hover .link-line{transform:translateY(-120%)}.link[data-v-bb9b6841] .link-line{display:inline-flex;line-height:1.4cap;position:relative;transition:transform 1s cubic-bezier(.19,1,.22,1) calc(.1s*var(--index));width:100%}.link[data-v-bb9b6841] .link-line:after{bottom:-120%;content:attr(data-label);left:0;position:absolute}.link[data-v-bb9b6841] .line-mask{clip-path:inset(-20% 0 -10% 0)}</style><style>#app.is-transitioning .page[data-v-6ffaae76]{overflow:hidden}.page__inner[data-v-6ffaae76]{min-height:var(--height)}</style><style>.hero[data-v-737c09ca]{align-items:center;background:var(--c-placeholder);border-radius:var(--radius);display:flex;flex-direction:column;height:calc(var(--height) - var(--offset-double));justify-content:space-between;margin:var(--offset);overflow:hidden;padding:var(--offset-double);position:relative;width:var(--width)}@media screen and (min-width:768px){.hero[data-v-737c09ca]{aspect-ratio:1870/2380;height:unset;min-height:80vh}}.hero__logo[data-v-737c09ca]{z-index:10}.hero__text[data-v-737c09ca]{color:var(--c-accent)}@media screen and (min-width:768px){.hero__text[data-v-737c09ca]{margin-bottom:var(--col-1)}}.hero__bg[data-v-737c09ca]{bottom:0;height:100%;left:0;-o-object-fit:cover;object-fit:cover;position:absolute;top:0;width:100%;z-index:5}.hero__bg[data-v-737c09ca] img,.hero__bg[data-v-737c09ca] video{height:100%;-o-object-fit:cover;object-fit:cover;width:100%}.hero__content[data-v-737c09ca]{z-index:10}</style><style>svg[data-v-0e380769]{width:100%}</style><style>.mini-t[data-v-91ffcc61]{display:flex}.mini-t__index[data-v-91ffcc61]{display:inline-flex;margin-right:var(--gutter);width:var(--col-1)}</style><style>.js-text[data-v-36321421]{display:inline-block}.js-text[data-v-36321421] .line,.js-text[data-v-36321421] .word{transform:translateY(var(--y-percent))}.js-text[data-v-36321421] .line-mask{clip-path:inset(-10% 0 0 0);display:inline-block!important;overflow:visible!important}.js-text[data-v-36321421] .word-mask{clip-path:inset(-10% 0 -10% 0);overflow:visible!important}.js-text.is-inview[data-v-36321421] .line,.js-text.is-inview[data-v-36321421] .word{transform:translateY(0);transition:transform var(--speed) cubic-bezier(.19,1,.22,1) calc(var(--index)*var(--stagger) + var(--delay))}.js-text[data-v-36321421]:not(.is-inview) .line{transition:none}</style><style>.text.is-inview .text__bullet__el[data-v-f1e39d7c]{scale:1;transition:scale 1s cubic-bezier(.5,0,0,1),transform 1s cubic-bezier(.5,0,0,1) .5s;will-change:transform}.text.is-inview .text__bullet__el[data-v-f1e39d7c]:first-child{transform:translate(calc(var(--col-1)/2 - 50%))}.text.is-inview .text__bullet__el[data-v-f1e39d7c]:nth-child(2){transform:translate(calc(var(--col-1)/2*-1 + 50%))}.text[data-v-f1e39d7c] .js-text{display:inline}.text .text__bullet[data-v-f1e39d7c]{align-items:center;display:inline-flex;height:1cap;justify-content:center;justify-content:space-between;margin-right:var(--gutter);transform:translateY(-20%);width:var(--col-1)}@media screen and (min-width:1024px){.text .text__bullet[data-v-f1e39d7c]{filter:url(#meta)}}.text .text__bullet__el[data-v-f1e39d7c]{background:var(--c-accent);border-radius:3rem;height:3rem;scale:0;width:3rem}@media screen and (max-width:1023.8px){.text .text__bullet__el[data-v-f1e39d7c]{border-radius:3rem;height:1.5rem;width:1.5rem}}.text__bullet__filter[data-v-f1e39d7c]{position:absolute;visibility:hidden}</style><style>.media{background:var(--c-placeholder);position:relative}.media img,.media video{display:block;height:auto;height:100%;-o-object-fit:cover;object-fit:cover;width:100%}.media video{opacity:0;transition:opacity .5s ease}.media.video-ready video{opacity:1}.media.has-image img{transition:opacity .5s ease}.media.has-image.video-ready img{opacity:1}.media.has-image video{height:100%;inset:0;-o-object-fit:cover;object-fit:cover;position:absolute;width:100%}</style><style>.section-text[data-v-85a87b7a]{align-items:center;display:flex;flex-direction:column;margin-bottom:clamp(5rem,3.7254901961rem + 3.2679738562vw,10rem);padding-bottom:clamp(5rem,3.7254901961rem + 3.2679738562vw,10rem);position:relative}</style><style>.container[data-v-20ef0dbd]{margin-left:auto;margin-right:auto;position:relative;width:var(--width)}@media screen and (min-width:1024px){.container[data-v-20ef0dbd]{width:calc(var(--width) - var(--offset)*2)}}.full[data-v-20ef0dbd]{width:100%}.flex[data-v-20ef0dbd]{display:flex}.small[data-v-20ef0dbd]{max-width:var(--col-8)}</style><style>.s-head[data-v-7fa5451b]{align-items:center;border-bottom:1px solid;justify-content:center;padding:clamp(3rem,2.2352941176rem + 1.9607843137vw,6rem)}.s-head[data-v-7fa5451b],.s-head__inner[data-v-7fa5451b]{display:flex;width:100%}.s-head__inner[data-v-7fa5451b]{display:grid;grid-template-columns:repeat(3,1fr);justify-content:space-between;max-width:var(--col-8);place-content:center}</style><style>.service-list[data-v-84a952a9]{aspect-ratio:1870/2500;background:var(--c-placeholder);border-radius:var(--radius);left:auto;margin-left:auto;margin-right:auto;overflow:clip;position:relative;right:auto;width:var(--width)}@media screen and (min-width:1024px){.service-list[data-v-84a952a9]{aspect-ratio:1870/2000}}.container[data-v-84a952a9]{display:flex;flex-direction:column;height:100%;z-index:10}.service-list__pills[data-v-84a952a9]{margin-bottom:auto;margin-top:auto}.service-list__bg[data-v-84a952a9]{bottom:0;height:100%;left:0;-o-object-fit:cover;object-fit:cover;position:absolute;top:0;width:100%;z-index:5}.service-list__bg[data-v-84a952a9] img,.service-list__bg[data-v-84a952a9] video{height:100%;-o-object-fit:cover;object-fit:cover;width:100%}</style><style>.pills[data-v-ef5fca38]{pointer-events:none}.pills[data-v-ef5fca38],.pills-list[data-v-ef5fca38]{display:flex;flex-direction:column}.pills-list[data-v-ef5fca38]{align-items:center;justify-content:center;margin:0 auto;transform:translateZ(0);width:-moz-fit-content;width:fit-content}@media screen and (min-width:1024px){.pills-list[data-v-ef5fca38]{filter:var(--filter-url)}}.pill[data-v-ef5fca38]{align-items:center;background:var(--bg);border-radius:var(--radius);color:var(--color);display:flex;justify-content:center;overflow:hidden;padding:3rem 5rem;position:relative;transform:translateY(calc(-100%*var(--index))) scale(.5);transition:background .5s cubic-bezier(.5,0,0,1),color .5s cubic-bezier(.5,0,0,1);width:25rem;will-change:transform;z-index:calc(var(--total) - var(--index))}@media screen and (min-width:1024px){.pill[data-v-ef5fca38]{padding:8rem 12rem}}.pill[data-v-ef5fca38]:nth-child(2n){border-radius:20rem}.pill__text[data-v-ef5fca38]{display:flex;height:.8cap;line-height:.9;opacity:0;transform:translateY(120%);white-space:nowrap}@media screen and (max-width:767.8px){.pill__text[data-v-ef5fca38]{font-size:3.4rem}}.filter[data-v-ef5fca38]{position:absolute;visibility:hidden}</style><style>.pills-filter[data-v-b32a3099]{position:absolute;visibility:hidden}</style><style>.steps[data-v-9ae1c81f]{display:flex;height:var(--height);padding:var(--offset-double) var(--offset);width:100%}@media screen and (min-width:768px){.steps[data-v-9ae1c81f]{align-items:center;height:var(--height);justify-content:center}}.steps__"
+}

@@ -4,13 +4,46 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@font-face {
+  font-family: HaasUnicaSH-Medium;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/wembi/HaasUnicaSH-Medium.woff2") format("woff2"),
+    url("/fonts/wembi/HaasUnicaSH-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: HaasUnicaSH-Regular;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/wembi/HaasUnicaSH-Regular.woff2") format("woff2"),
+    url("/fonts/wembi/HaasUnicaSH-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: ductile;
+  font-style: normal;
+  font-display: swap;
+  src:
+    url("/fonts/wembi/ductile.woff2") format("woff2"),
+    url("/fonts/wembi/ductile.woff") format("woff");
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-figtree), ui-sans-serif, system-ui, sans-serif;
-  --font-mono: var(--font-ibm-plex-mono), ui-monospace, monospace;
-  --font-display: var(--font-bricolage), var(--font-sans);
-  --font-heading: var(--font-display);
+  --font-sans: HaasUnicaSH-Medium, Helvetica, ui-sans-serif, sans-serif;
+  --font-regular: HaasUnicaSH-Regular, Helvetica, ui-sans-serif, sans-serif;
+  --font-display: ductile, Helvetica, ui-sans-serif, sans-serif;
+  --color-w-bg: var(--c-bg);
+  --color-w-accent: var(--c-accent);
+  --color-w-secondary: var(--c-secondary);
+  --color-w-light: var(--c-light);
+  --color-w-dark: var(--c-dark);
+  --color-w-hero: var(--c-placeholder);
+  --color-w-brand: var(--c-bg-brand);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
@@ -40,166 +73,139 @@
   --color-popover: var(--popover);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
-  --color-ember: var(--ember);
-  --color-spark: var(--spark);
-  --color-slag: var(--slag);
-  --color-iron: var(--iron);
-  --color-ash: var(--ash);
-  --color-graphite: var(--graphite);
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) * 1.4);
-  --radius-2xl: calc(var(--radius) * 1.8);
-  --radius-3xl: calc(var(--radius) * 2.2);
-  --radius-4xl: calc(var(--radius) * 2.6);
 }
 
 :root {
-  /* Forge palette — graphite steel + copper ember */
-  --graphite: #0e1116;
-  --ash: #1a1f27;
-  --ember: #e07a3d;
-  --spark: #f0a35e;
-  --slag: #e8e4dc;
-  --iron: #8b939e;
+  --c-bg: #ede8e8;
+  --c-light: #fff;
+  --c-dark: #000;
+  --c-accent: #beff8b;
+  --c-secondary: #d5bafb;
+  --c-text: #000;
+  --c-bg-brand: #9dbbc5;
+  --c-placeholder: #c0dfe9;
 
-  --background: var(--graphite);
-  --foreground: var(--slag);
-  --card: var(--ash);
-  --card-foreground: var(--slag);
-  --popover: var(--ash);
-  --popover-foreground: var(--slag);
-  --primary: var(--ember);
-  --primary-foreground: #1a1008;
-  --secondary: #252b36;
-  --secondary-foreground: var(--slag);
-  --muted: #252b36;
-  --muted-foreground: var(--iron);
-  --accent: #2a3140;
-  --accent-foreground: var(--slag);
-  --destructive: oklch(0.65 0.2 25);
-  --border: rgb(232 228 220 / 12%);
-  --input: rgb(232 228 220 / 14%);
-  --ring: var(--ember);
-  --chart-1: var(--ember);
-  --chart-2: var(--spark);
-  --chart-3: var(--iron);
-  --chart-4: #c45c28;
-  --chart-5: #5a6270;
-  --radius: 0.5rem;
-  --sidebar: var(--ash);
-  --sidebar-foreground: var(--slag);
-  --sidebar-primary: var(--ember);
-  --sidebar-primary-foreground: #1a1008;
-  --sidebar-accent: #252b36;
-  --sidebar-accent-foreground: var(--slag);
-  --sidebar-border: rgb(232 228 220 / 12%);
-  --sidebar-ring: var(--ember);
+  --background: var(--c-bg);
+  --foreground: var(--c-text);
+  --card: var(--c-light);
+  --card-foreground: var(--c-text);
+  --popover: var(--c-light);
+  --popover-foreground: var(--c-text);
+  --primary: var(--c-dark);
+  --primary-foreground: var(--c-light);
+  --secondary: var(--c-secondary);
+  --secondary-foreground: var(--c-dark);
+  --muted: #e2dcdc;
+  --muted-foreground: #555;
+  --accent: var(--c-accent);
+  --accent-foreground: var(--c-dark);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: rgb(0 0 0 / 10%);
+  --input: rgb(0 0 0 / 10%);
+  --ring: var(--c-accent);
+  --chart-1: var(--c-accent);
+  --chart-2: var(--c-secondary);
+  --chart-3: var(--c-placeholder);
+  --chart-4: var(--c-bg-brand);
+  --chart-5: #888;
+  --radius: 0.65rem;
+  --sidebar: var(--c-light);
+  --sidebar-foreground: var(--c-text);
+  --sidebar-primary: var(--c-dark);
+  --sidebar-primary-foreground: var(--c-light);
+  --sidebar-accent: var(--c-bg);
+  --sidebar-accent-foreground: var(--c-text);
+  --sidebar-border: rgb(0 0 0 / 10%);
+  --sidebar-ring: var(--c-accent);
 }
 
 @layer base {
   * {
     @apply border-border outline-ring/50;
   }
-  body {
-    @apply bg-background text-foreground;
-  }
   html {
-    @apply font-sans;
+    scroll-behavior: smooth;
+  }
+  body {
+    background: var(--c-bg);
+    color: var(--c-text);
+    font-family: HaasUnicaSH-Medium, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
   }
 }
 
-/* —— CloneForge showcase (replaced when you /clone-website) —— */
-.cf-forge-bg {
-  background-color: var(--graphite);
-  background-image:
-    radial-gradient(ellipse 90% 60% at 70% 20%, rgb(224 122 61 / 22%), transparent 55%),
-    radial-gradient(ellipse 50% 40% at 10% 80%, rgb(240 163 94 / 10%), transparent 50%),
-    linear-gradient(180deg, #12161d 0%, var(--graphite) 45%, #0a0c10 100%);
+/* Wembi layout helpers */
+.w-page {
+  padding: 1.15rem;
 }
 
-.cf-blueprint {
-  background-image:
-    linear-gradient(rgb(232 228 220 / 4%) 1px, transparent 1px),
-    linear-gradient(90deg, rgb(232 228 220 / 4%) 1px, transparent 1px);
-  background-size: 48px 48px;
-  mask-image: radial-gradient(ellipse 70% 60% at 50% 40%, black 20%, transparent 75%);
+.w-panel {
+  border-radius: 0.65rem;
+  overflow: hidden;
 }
 
-.cf-display {
-  font-family: var(--font-display);
-  letter-spacing: -0.04em;
+.w-ff-regular {
+  font-family: HaasUnicaSH-Regular, Helvetica, sans-serif;
 }
 
-@keyframes cf-rise {
-  from {
-    opacity: 0;
-    transform: translateY(18px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+.w-ff-display {
+  font-family: ductile, Helvetica, sans-serif;
 }
 
-@keyframes cf-glow {
-  0%,
-  100% {
-    opacity: 0.45;
-  }
-  50% {
-    opacity: 0.9;
-  }
+.w-s-head {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 3rem 0 4rem;
 }
 
-@keyframes cf-scan {
-  0% {
-    transform: translateY(-100%);
-  }
-  100% {
-    transform: translateY(220%);
-  }
+.w-s-head span:last-child {
+  text-align: right;
 }
 
-@keyframes cf-type {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
+.w-s-head__title {
+  text-align: center;
 }
 
-.cf-rise {
-  animation: cf-rise 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
+.w-fluid-xl {
+  font-size: clamp(2rem, 6.5vw, 6.1rem);
+  line-height: 1.1;
+  font-weight: 400;
 }
 
-.cf-rise-delay-1 {
-  animation-delay: 0.12s;
-}
-.cf-rise-delay-2 {
-  animation-delay: 0.24s;
-}
-.cf-rise-delay-3 {
-  animation-delay: 0.36s;
-}
-.cf-rise-delay-4 {
-  animation-delay: 0.48s;
+.w-fluid-lg {
+  font-size: clamp(1.5rem, 4vw, 3.5rem);
+  line-height: 1.15;
 }
 
-.cf-ember-glow {
-  animation: cf-glow 3.2s ease-in-out infinite;
+.w-mini {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.75rem;
+  line-height: 1.1;
+  margin-bottom: 2.5rem;
 }
 
-.cf-scan-line {
-  animation: cf-scan 3.5s linear infinite;
+.w-bullet {
+  display: inline-flex;
+  gap: 0.35rem;
+  margin-right: 0.75rem;
+  vertical-align: middle;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  .cf-rise,
-  .cf-ember-glow,
-  .cf-scan-line {
-    animation: none !important;
-  }
+.w-bullet i {
+  display: block;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 999px;
+  background: var(--c-light);
 }

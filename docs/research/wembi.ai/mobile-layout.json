@@ -1,0 +1,83 @@
+[
+  {
+    "tag": "section",
+    "classes": "section-text what",
+    "display": "flex",
+    "flexDirection": "column",
+    "width": "390px",
+    "height": 498,
+    "textPreview": "N.001 WHAT N.001 N°001 Il Gemello Digitale di ogni cosa Un Digital Twin intelligente totalmente gest"
+  },
+  {
+    "tag": "section",
+    "classes": "service-list sp-60",
+    "display": "block",
+    "flexDirection": "row",
+    "width": "370px",
+    "height": 495,
+    "textPreview": "N.002 HOW N.002 Digital Twin Functioning"
+  },
+  {
+    "tag": "section",
+    "classes": "steps is-lrt sp-100",
+    "display": "flex",
+    "flexDirection": "row",
+    "width": "390px",
+    "height": 844,
+    "textPreview": "01 Digital Twin Data Device Application Acquisizione e normalizzazione dei dati provenienti dai dis"
+  },
+  {
+    "tag": "section",
+    "classes": "steps sp-100",
+    "display": "flex",
+    "flexDirection": "row",
+    "width": "390px",
+    "height": 844,
+    "textPreview": "02 Functioning Acquisizione Controllo Predizione Trasformazione in tempo reale del comportamento fi"
+  },
+  {
+    "tag": "section",
+    "classes": "section-text-list sp-20",
+    "display": "block",
+    "flexDirection": "row",
+    "width": "370px",
+    "height": 594,
+    "textPreview": "N.003 WHY N.003 Efficace Sostenibile Efficiente Libero"
+  },
+  {
+    "tag": "section",
+    "classes": "accordion-list sp-100",
+    "display": "block",
+    "flexDirection": "row",
+    "width": "390px",
+    "height": 742,
+    "textPreview": "N.004 WHERE N.004 Industrial Energy Aerospace Medical"
+  },
+  {
+    "tag": "section",
+    "classes": "faq sp-20",
+    "display": "flex",
+    "flexDirection": "column",
+    "width": "370px",
+    "height": 1102,
+    "textPreview": "N.005 QUESTIONS N.005 FAQ Per rendere tutto più semplice, abbiamo raccolto qui le risposte alle doma"
+  },
+  {
+    "tag": "section",
+    "classes": "contact sp-200",
+    "display": "block",
+    "flexDirection": "row",
+    "width": "390px",
+    "height": 451,
+    "textPreview": "N.006 CONTACT N.006 Il tuo cambiamento parte da qui. Contattaci. Mail Phone"
+  },
+  {
+    "tag": "footer",
+    "classes": "footer",
+    "display": "block",
+    "flexDirection": "row",
+    "width": "390px",
+    "height": 487,
+    "textPreview": "Headquarter Via Cotonificio, 45 33010 - Feletto Umberto Udine - Italy Contact Phone - +39 351 609 "
+  }
+]

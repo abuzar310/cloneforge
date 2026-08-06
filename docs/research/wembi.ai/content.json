@@ -1,0 +1,283 @@
+{
+  "logoHtml": "<svg id=\"logo\" width=\"1724\" height=\"308\" viewBox=\"0 0 1724 308\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"hero__logo\" data-v-737c09ca=\"\" data-v-0e380769=\"\"><path id=\"w\" d=\"M0 17.7125C0 7.8722 7.86861 0 17.7044 0C22.6223 0 27.0484 1.96805 30.2099 5.20128C33.4416 8.36422 35.4088 12.7923 35.4088 17.7125V249.24C35.4088 262.173 45.8768 272.645 58.8038 272.645H118.38C120.067 272.645 121.682 272.856 123.228 273.348C130.745 275.316 136.577 281.783 136.858 289.725C136.998 294.083 135.593 298.019 133.064 301.182C132.642 301.744 132.151 302.307 131.659 302.799C128.497 306.032 124.071 308 119.224 308H76.2974C75.5246 308 74.7518 308 74.0493 307.859C73.3467 307.789 72.5739 307.649 71.9416 307.578C71.3093 307.438 70.7473 307.297 70.1852 307.157C69.6232 307.016 69.0611 306.805 68.5693 306.594C67.7965 306.313 66.9535 305.962 66.2509 305.61C66.2509 305.61 66.2275 305.61 66.1807 305.61C65.5484 305.329 64.9863 305.048 64.4243 304.696C64.2135 304.556 63.9325 304.415 63.7217 304.275C63.0894 303.853 62.4571 303.431 61.8248 302.939C61.1223 302.377 60.49 301.815 59.8577 301.182L7.02555 248.326C2.59945 243.898 0.210766 237.923 0.210766 231.738V17.7125H0ZM136.858 231.738V17.7125C136.858 7.94249 144.726 0 154.562 0C159.48 0 163.906 1.96805 167.068 5.20128C170.229 8.43451 172.266 12.7923 172.266 17.7125V249.24C172.266 262.173 182.734 272.645 195.661 272.645H249.196C262.123 272.645 272.591 262.173 272.591 249.24V17.7125C272.591 7.94249 280.46 0 290.296 0C300.131 0 308 7.8722 308 17.7125V231.738C308 237.923 305.541 243.898 301.185 248.326L248.353 301.182C243.927 305.61 237.955 308 231.773 308H213.225C207.043 308 201.071 305.54 196.645 301.182L143.813 248.326C139.387 243.898 136.998 237.923 136.998 231.738H136.858Z\" fill=\"var(--c-accent)\" data-v-0e380769=\"\" data-svg-origin=\"0 0\" transform=\"matrix(1,0,0,1,0,0)\" style=\"\"></path><path id=\"e\" d=\"M644.288 0C654.057 0 662 7.86861 662 17.7044C662 22.6223 660.032 27.0484 656.799 30.2099C653.566 33.3714 649.208 35.4088 644.288 35.4088H412.76C399.827 35.4088 389.355 45.8768 389.355 58.8038V118.38C389.355 120.067 389.144 121.682 388.652 123.228C386.684 130.745 380.217 136.577 372.275 136.858C367.917 136.998 363.911 135.593 360.818 133.064C360.256 132.642 359.693 132.151 359.201 131.659C356.038 128.497 354 124.071 354 119.224V76.2974C354 75.5246 354 74.7518 354.141 73.979C354.211 73.2765 354.351 72.5036 354.422 71.8713C354.562 71.2391 354.703 70.677 354.843 70.115C354.984 69.5529 355.195 68.9909 355.406 68.4991C355.687 67.7263 356.038 66.8832 356.39 66.1104C356.39 66.1104 356.39 66.087 356.39 66.0401C356.671 65.4078 356.952 64.8458 357.303 64.2838C357.444 64.073 357.585 63.8622 357.725 63.5812C358.147 62.9489 358.569 62.3166 359.061 61.6843C359.623 60.9818 360.185 60.3495 360.818 59.7172L413.674 6.88504C418.102 2.45894 424.077 0.0702555 430.262 0.0702555H644.288V0ZM430.262 136.858H644.288C654.057 136.858 662 144.726 662 154.562C662 159.48 660.032 163.906 656.799 167.068C653.566 170.229 649.208 172.266 644.288 172.266H412.76C399.827 172.266 389.355 182.734 389.355 195.661V249.196C389.355 262.123 399.827 272.591 412.76 272.591H644.288C654.057 272.591 662 280.53 662 290.296C662 300.061 654.128 308 644.288 308H430.262C424.077 308 418.102 305.541 413.674 301.185L360.818 248.353C356.39 243.927 354 237.955 354 231.773V213.225C354 207.043 356.46 201.071 360.818 196.645L413.674 143.813C418.102 139.387 424.077 136.998 430.262 136.998V136.858Z\" fill=\"var(--c-accent)\" data-v-0e380769=\"\" data-svg-origin=\"354 0\" transform=\"matrix(1,0,0,1,0,0)\" style=\"\"></path><path id=\"m\" d=\"M879.142 76.262V290.288C879.142 300.057 871.274 308 861.438 308C856.52 308 852.094 306.032 848.932 302.799C845.771 299.636 843.734 295.208 843.734 290.288V58.7604C843.734 45.8275 833.266 35.3546 820.339 35.3546H766.804C753.877 35.3546 743.409 45.8275 743.409 58.7604V290.288C743.409 300.057 735.54 308 725.704 308C715.869 308 708 300.057 708 290.288V76.262C708 70.0767 710.459 64.1022 714.815 59.6741L767.647 6.81789C772.073 2.38978 778.045 0 784.227 0H802.775C808.957 0 814.929 2.46006 819.355 6.81789L872.187 59.6741C876.613 64.1022 879.002 70.0767 879.002 76.262H879.142ZM1016 290.288C1016 300.057 1008.13 308 998.296 308C993.378 308 988.952 306.032 985.79 302.799C982.558 299.636 980.591 295.208 980.591 290.288V58.7604C980.591 45.8275 970.123 35.3546 957.196 35.3546H897.62C895.933 35.3546 894.318 35.1438 892.772 34.6518C885.255 32.6837 879.423 26.2172 879.142 18.2748C879.002 13.9169 880.407 9.98083 882.936 6.81789C883.358 6.25559 883.849 5.69329 884.341 5.20128C887.503 2.03834 891.929 0 896.776 0H939.703C940.475 0 941.248 0 941.951 0.140575C942.653 0.210863 943.426 0.351438 944.058 0.421725C944.691 0.5623 945.253 0.702875 945.815 0.84345C946.377 0.984025 946.939 1.19489 947.431 1.40575C948.203 1.6869 949.047 2.03834 949.749 2.38978C949.749 2.38978 949.773 2.38978 949.819 2.38978C950.452 2.67093 951.014 2.95208 951.576 3.30351C951.786 3.44409 952.068 3.58466 952.278 3.72524C952.911 4.14696 953.543 4.56869 954.175 5.0607C954.878 5.623 955.51 6.1853 956.142 6.81789L1008.97 59.6741C1013.4 64.1022 1015.79 70.0767 1015.79 76.262V290.288H1016Z\" fill=\"var(--c-accent)\" data-v-0e380769=\"\" data-svg-origin=\"708 0\" transform=\"matrix(1,0,0,1,0,0)\" style=\"\"></path><path id=\"b\" d=\"M1293.76 171.142H1079.78C1070.01 171.142 1062.07 163.274 1062.07 153.438C1062.07 148.52 1064.04 144.094 1067.27 140.932C1070.5 137.771 1074.86 135.734 1079.78 135.734H1311.25C1324.18 135.734 1334.65 125.266 1334.65 112.339V58.8038C1334.65 45.8768 1324.18 35.4088 1311.25 35.4088H1079.78C1070.01 35.4088 1062.07 27.4699 1062.07 17.7044C1062.07 7.93887 1069.94 0 1079.78 0H1293.76C1299.94 0 1305.91 2.45894 1310.34 6.81478L1363.18 59.6469C1367.61 64.073 1370 70.0447 1370 76.2272V94.7746C1370 100.957 1367.54 106.929 1363.18 111.355L1310.34 164.187C1305.91 168.613 1299.94 171.002 1293.76 171.002V171.142ZM1079.71 308C1069.94 308 1062 300.131 1062 290.296C1062 285.378 1063.97 280.952 1067.2 277.79C1070.43 274.629 1074.79 272.591 1079.71 272.591H1311.18C1324.11 272.591 1334.58 262.123 1334.58 249.196V189.62C1334.58 187.933 1334.79 186.318 1335.29 184.772C1337.25 177.255 1343.72 171.423 1351.66 171.142C1356.02 171.002 1360.02 172.407 1363.11 174.936C1363.68 175.358 1364.24 175.849 1364.73 176.341C1367.89 179.503 1369.93 183.929 1369.93 188.776V231.703C1369.93 232.475 1369.93 233.248 1369.79 234.021C1369.72 234.724 1369.58 235.496 1369.51 236.129C1369.37 236.761 1369.23 237.323 1369.09 237.885C1368.95 238.447 1368.74 239.009 1368.52 239.501C1368.24 240.274 1367.89 241.117 1367.54 241.89C1367.54 241.89 1367.54 241.913 1367.54 241.96C1367.26 242.592 1366.98 243.154 1366.63 243.716C1366.49 243.927 1366.35 244.138 1366.21 244.419C1365.78 245.051 1365.36 245.683 1364.87 246.316C1364.31 247.018 1363.75 247.651 1363.11 248.283L1310.27 301.115C1305.84 305.541 1299.87 307.93 1293.69 307.93H1079.71V308Z\" fill=\"var(--c-accent)\" data-v-0e380769=\"\" data-svg-origin=\"1062 0\" transform=\"matrix(1,0,0,1,0,0)\" style=\"\"></path><path id=\"i\" d=\"M1580.25 248.269L1527.44 301.113C1523.02 305.54 1517.05 307.93 1510.87 307.93H1467.97C1467.97 307.93 1467.47 307.93 1467.26 307.93C1467.12 307.93 1466.98 307.93 1466.77 307.93H1433.7C1428.78 307.93 1424.36 305.962 1421.2 302.73C1418.04 299.497 1416 295.14 1416 290.221C1416 282 1421.62 275.043 1429.27 273.145C1430.68 272.794 1432.15 272.583 1433.7 272.583H1466.77C1466.77 272.583 1467.05 272.583 1467.26 272.583C1467.47 272.583 1467.68 272.583 1467.97 272.583H1528.36C1541.28 272.583 1551.74 262.113 1551.74 249.183V58.8172C1551.74 45.8873 1541.28 35.4168 1528.36 35.4168H1467.97C1467.97 35.4168 1467.47 35.4168 1467.26 35.4168C1467.12 35.4168 1466.98 35.4168 1466.77 35.4168H1433.7C1432.15 35.4168 1430.68 35.206 1429.27 34.8547C1421.62 32.8871 1416 26.0005 1416 17.7787C1416 12.8597 1417.97 8.43258 1421.2 5.27036C1424.43 2.10815 1428.78 0.0702715 1433.7 0.0702715H1466.77C1466.77 0.0702715 1467.05 0.0702715 1467.26 0.0702715C1467.47 0.0702715 1467.68 0.0702715 1467.97 0.0702715H1510.87C1517.05 0.0702715 1523.02 2.52977 ",
+  "hero": {
+    "minititle": "N°001\nIl Gemello Digitale di ogni cosa",
+    "text": "Wembi migliora\nall'istante le performance\ndi qualsiasi dispositivo,\nmacchinario o apparato\ndigitale attraverso la\ncreazione della sua replica\nvirtuale."
+  },
+  "heroStyles": {
+    "minititle": {
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fontFamily": "HaasUnicaSH-Medium, Helvetica, sans-serif",
+      "lineHeight": "13.2px",
+      "letterSpacing": "normal",
+      "color": "rgb(190, 255, 139)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px 0px 45px",
+      "maxWidth": "none",
+      "width": "1116px",
+      "display": "flex",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "textAlign": "start"
+    },
+    "text": {
+      "fontSize": "97.5px",
+      "fontWeight": "400",
+      "fontFamily": "HaasUnicaSH-Regular, Helvetica, sans-serif",
+      "lineHeight": "107.25px",
+      "letterSpacing": "normal",
+      "color": "rgb(190, 255, 139)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "padding": "0px",
+      "margin": "0px 0px 113.25px",
+      "maxWidth": "none",
+      "width": "1116px",
+      "display": "block",
+      "gap": "normal",
+      "borderRadius": "0px",
+      "textAlign": "start"
+    },
+    "hero": {
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "fontFamily": "HaasUnicaSH-Medium, Helvetica, sans-serif",
+      "lineHeight": "12px",
+      "letterSpacing": "normal",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(192, 223, 233)",
+      "padding": "37.5px",
+      "margin": "18.75px",
+      "maxWidth": "none",
+      "width": "1402.5px",
+      "display": "flex",
+      "gap": "normal",
+      "borderRadius": "10.5px",
+      "textAlign": "start"
+    }
+  },
+  "what": {
+    "label": "N°001Il Gemello Digitale di ogni cosa",
+    "title": "WHAT",
+    "body": "N.001\nWHAT\nN.001\nN°001Il Gemello Digitale di ogni cosa\nUn Digital Twin intelligente totalmente gestibile da remoto e in real time, che per il suo funzionamento individua predittivamente il migliore degli scenari futuribili.",
+    "html": "<div class=\"section-text__inner\" data-v-85a87b7a=\"\"><div class=\"container\" data-v-85a87b7a=\"\" data-v-20ef0dbd=\"\"><!--[--><div class=\"s-head sp-200\" style=\"color:var(--c-text);\" id=\"1\" data-v-85a87b7a=\"\" data-v-7fa5451b=\"\"><div class=\"s-head__inner fs-base tt-u\" data-v-7fa5451b=\"\"><span data-v-7fa5451b=\"\">n.001</span><span class=\"s-head__title ta-c\" data-v-7fa5451b=\"\">WHAT</span><span class=\"ta-r\" data-v-7fa5451b=\"\">n.001</span></div></div><div class=\"container small\" data-v-85a87b7a=\"\" data-v-20ef0dbd=\"\"><!--[--><div class=\"mini-t fs-base sp-60\" data-v-85a87b7a=\"\" data-v-91ffcc61=\"\"><span class=\"js-text\" style=\"--y-percent:120%;--speed:0.75s;--stagger:0.05s;\" data-v-91ffcc61=\"\" data-v-36321421=\"\"><!--[--><span class=\"mini-t__index\" data-split=\"\" data-v-91ffcc61=\"\">N°001</span><span class=\"mini-t__title\" data-split=\"\" data-v-91ffcc61=\"\">Il Gemello Digitale di ogni cosa</span><!--]--></span></div><div class=\"text ff-regular fs-130\" data-v-85a87b7a=\"\" data-v-f1e39d7c=\"\"><svg class=\"text__bullet__filter\" data-v-f1e39d7c=\"\"><defs data-v-f1e39d7c=\"\"><filter id=\"meta\" data-v-f1e39d7c=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"10\" result=\"blur\" data-v-f1e39d7c=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" type=\"matrix\" values=\"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9\" result=\"goo\" data-v-f1e39d7c=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"goo\" operator=\"atop\" data-v-f1e39d7c=\"\"></feComposite></filter></defs></svg><span class=\"text__bullet\" data-v-f1e39d7c=\"\"><span class=\"text__bullet__el\" style=\"background:var(--c-light);\" data-v-f1e39d7c=\"\"></span><span class=\"text__bullet__el\" style=\"background:var(--c-light);\" data-v-f1e39d7c=\"\"></span></span><span class=\"js-text\" style=\"--y-percent:105%;--speed:0.75s;--stagger:0.1s;\" data-v-f1e39d7c=\"\" data-v-36321421=\"\"><!--[--><!--[-->Un Digital Twin intelligente totalmente gestibile da remoto e in real time, che per il suo funzionamento individua predittivamente il migliore degli scenari futuribili.<!--]--><!--]--></span></div><!--]--></div><!--]--></div></div>"
+  },
+  "whatStyles": {
+    "fontSize": "97.5px",
+    "fontWeight": "400",
+    "fontFamily": "HaasUnicaSH-Regular, Helvetica, sans-serif",
+    "lineHeight": "107.25px",
+    "letterSpacing": "normal",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "margin": "0px",
+    "maxWidth": "none",
+    "width": "1116px",
+    "display": "block",
+    "gap": "normal",
+    "borderRadius": "0px",
+    "textAlign": "start"
+  },
+  "howItems": [
+    {
+      "text": "Digital Twin",
+      "href": null
+    },
+    {
+      "text": "Functioning",
+      "href": null
+    }
+  ],
+  "howText": "N.002\nHOW\nN.002\nDigital Twin\nFunctioning",
+  "steps": [
+    {
+      "classes": "steps is-lrt sp-100",
+      "fullText": "01\nDigital Twin\nData\nDevice\nApplication\n\nAcquisizione e normalizzazione dei dati\nprovenienti dai dispositivi sul campo:\nraccolta, analisi e visualizzazione.\n\nGestione da remoto degli apparati fisici:\ncontrollo, manutenzione predittiva,\nottimizzazione ed integrazione.\n\nRegole e logiche di utilizzo: automazione,\nefficientamento, simulazione, predizione ed\nintegrazione con l'AI.",
+      "panels": [
+        {
+          "text": "01\nDigital Twin\nData\nDevice\nApplication\n\nAcquisizione e normalizzazione dei dati\nprovenienti dai dispositivi sul campo:\nraccolta, analisi e visualizzazione.\n\nGestione da remoto degli apparati fisici:\ncontrollo, manutenzione predittiva,\nottimizzazione ed integrazione.\n\nRegole e logiche di utilizzo: automazione,\nefficientamento, simulazione, predizione ed\nintegrazione con l'AI.",
+          "classes": "steps__inner"
+        }
+      ],
+      "items": [
+        "01\nDigital Twin\nData\nDevice\nApplication\n\nAcquisizione e normalizzazione dei dati\nprovenienti dai dispositivi sul campo:\nraccolta, analisi e visualizzazione.\n\nGestione da remoto degli apparati fisici:\ncontrollo, manutenzione predittiva,\nottimizzazione ed integrazione.\n\nRegole e logiche di utilizzo: automazione,\nefficientamento, simulazione, predizione ed\nintegrazione con l'AI.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "01\nDigital Twin\nData\nDevice\nApplication\n\nAcquisizione e normalizzazione dei dati\nprovenienti dai dispositivi sul campo:\nraccolta, analisi e visualizzazione.\n\nGestione da remoto degli apparati fisici:\ncontrollo, manutenzione predittiva,\nottimizzazione ed integrazione.\n\nRegole e logiche di utilizzo: automazione,\nefficientamento, simulazione, predizione ed\nintegrazione con l'AI.",
+        "01\nDigital Twin\nData\nDevice\nApplication",
+        "01",
+        "Digital Twin",
+        "Data\nDevice\nApplication",
+        "Data\nDevice\nApplication"
+      ]
+    },
+    {
+      "classes": "steps sp-100",
+      "fullText": "02\nFunctioning\nAcquisizione\nControllo\nPredizione\n\nTrasformazione in tempo reale del\ncomportamento fisico dell’apparato in dati\ne informazioni digitali utili.\n\nInterpretazione e validazione dello stato di\nfunzionamento dell'intero apparato al fine\ndi poterlo gestire completamente.\n\nAnticipare il futuro: cosa potrà succedere\nall'apparato al manifestarsi o meno di una\ncerta eventualità.",
+      "panels": [
+        {
+          "text": "02\nFunctioning\nAcquisizione\nControllo\nPredizione\n\nTrasformazione in tempo reale del\ncomportamento fisico dell’apparato in dati\ne informazioni digitali utili.\n\nInterpretazione e validazione dello stato di\nfunzionamento dell'intero apparato al fine\ndi poterlo gestire completamente.\n\nAnticipare il futuro: cosa potrà succedere\nall'apparato al manifestarsi o meno di una\ncerta eventualità.",
+          "classes": "steps__inner"
+        }
+      ],
+      "items": [
+        "02\nFunctioning\nAcquisizione\nControllo\nPredizione\n\nTrasformazione in tempo reale del\ncomportamento fisico dell’apparato in dati\ne informazioni digitali utili.\n\nInterpretazione e validazione dello stato di\nfunzionamento dell'intero apparato al fine\ndi poterlo gestire completamente.\n\nAnticipare il futuro: cosa potrà succedere\nall'apparato al manifestarsi o meno di una\ncerta eventualità.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "02\nFunctioning\nAcquisizione\nControllo\nPredizione\n\nTrasformazione in tempo reale del\ncomportamento fisico dell’apparato in dati\ne informazioni digitali utili.\n\nInterpretazione e validazione dello stato di\nfunzionamento dell'intero apparato al fine\ndi poterlo gestire completamente.\n\nAnticipare il futuro: cosa potrà succedere\nall'apparato al manifestarsi o meno di una\ncerta eventualità.",
+        "02\nFunctioning\nAcquisizione\nControllo\nPredizione",
+        "02",
+        "Functioning",
+        "Acquisizione\nControllo\nPredizione",
+        "Acquisizione\nControllo\nPredizione"
+      ]
+    }
+  ],
+  "why": {
+    "full": "N.003\nWHY\nN.003\nEfficace\nSostenibile\nEfficiente\nLibero",
+    "items": [
+      "WHY",
+      "Efficace",
+      "Sostenibile",
+      "Efficiente",
+      "Libero"
+    ]
+  },
+  "whereItems": [
+    {
+      "text": "",
+      "tag": "DIV",
+      "open": false
+    },
+    {
+      "text": "Industrial\nEnergy\nAerospace\nMedical",
+      "tag": "DIV",
+      "open": false
+    },
+    {
+      "text": "",
+      "tag": "DIV",
+      "open": false
+    },
+    {
+      "text": "Industrial\nEnergy\nAerospace\nMedical",
+      "tag": "UL",
+      "open": false
+    },
+    {
+      "text": "Industrial",
+      "tag": "LI",
+      "open": false
+    },
+    {
+      "text": "Industrial",
+      "tag": "BUTTON",
+      "open": false
+    },
+    {
+      "text": "Energy",
+      "tag": "LI",
+      "open": false
+    },
+    {
+      "text": "Energy",
+      "tag": "BUTTON",
+      "open": false
+    },
+    {
+      "text": "Aerospace",
+      "tag": "LI",
+      "open": false
+    },
+    {
+      "text": "Aerospace",
+      "tag": "BUTTON",
+      "open": false
+    },
+    {
+      "text": "Medical",
+      "tag": "LI",
+      "open": false
+    },
+    {
+      "text": "Medical",
+      "tag": "BUTTON",
+      "open": false
+    }
+  ],
+  "whereText": "N.004\nWHERE\nN.004\nIndustrial\nEnergy\nAerospace\nMedical",
+  "faqText": "N.005\nQUESTIONS\nN.005\nFAQ\nPer rendere tutto più semplice, abbiamo raccolto qui le risposte alle domande più frequenti.\nN°01\nN°02\nN°03\nN°04\nN°05\nWemby è una piattaforma Web che permette di visualizzare e gestire un qualsiasi apparato che espone un'interfaccia digitale o digitalizzabile all’interno di un unico cruscotto secondo le proprie esigenze, sia in chiave analitica che predittiva.\nQualsiasi macchinario, dispositivo fisico, sensore o asset che espone o è potenzialmente abilitato ad esporre un'interfaccia digitale dunque, ad oggi, praticamente qualsiasi dispositivo fisico che viene connesso a una presa di corrente (e non solo).\nWembi è una piattaforma che si integra a un'architettura OT-IT distribuita e interamente open source: non ci sono dunque altri vincoli o restrizioni legate al pagamento di costi di licenza, recurrent fees o a una qualche policy di vendor lock in. Effettuata dunque la prima integrazione per l'attivazione del servizio l'utente sarà abilitato all'utilizzo del pannello con una formula al 100% \"pay per use\".\nSemplificazione dell'adozione della soluzione e dell'onboarding, dell'esperienza di utilizzo, dell'integrazione e dell'interoperabilità rispetto a qualsiasi altra piattaforma IoT EDGE ed EDGE AI esistente, efficientamento degli apparati a seguito della sua introduzione, risparmio economico consistente derivante dalla manutenzione predittiva, incremento dei cicli di produzione e riduzione dell'impatto ambientale.\nLa creazione della replica virtuale di un apparato fisico permette l'analisi e la completa gestione dei dispositivi che lo compongono, dei dati che circolano al suo interno e delle applicazioni in uso. Grazie a questo si è in grado di simulare il suo comportamento, lo stato e le prestazioni effettuando così un agevole monitoraggio, prevedendo eventuali problemi, ottimizzando e testando senza rischi, simulando scenari di incremento della produzione e di efficientamento energetico.\nDomanda\nIn sintesi che cos'è\nconcretamente Wembi?\nChe tipo di apparati possono\nessere connessi a Wembi?\nChe tipo di vincoli ci sono una\nvolta connesso l'apparato a\nWembi?\nQual è l'effettivo valore aggiunto\ndi Wembi?\nPerché dovrei voler creare il\nDigital Twin dei miei apparati?\nRead answer",
+  "faqHtml": "<div class=\"container sp-100\" data-v-b5d2359a=\"\" data-v-20ef0dbd=\"\"><!--[--><div class=\"s-head sp-200\" style=\"color:var(--c-text);\" id=\"5\" data-v-b5d2359a=\"\" data-v-7fa5451b=\"\"><div class=\"s-head__inner fs-base tt-u\" data-v-7fa5451b=\"\"><span data-v-7fa5451b=\"\">n.005</span><span class=\"s-head__title ta-c\" data-v-7fa5451b=\"\">QUESTIONS</span><span class=\"ta-r\" data-v-7fa5451b=\"\">n.005</span></div></div><h3 class=\"fs-130 sp-60 ff-regular ta-c col-6-d\" data-v-b5d2359a=\"\">FAQ</h3><div class=\"text ff-regular col-5-m fs-50 col-6-d col-7-t\" data-v-b5d2359a=\"\" data-v-f1e39d7c=\"\"><svg class=\"text__bullet__filter\" data-v-f1e39d7c=\"\"><defs data-v-f1e39d7c=\"\"><filter id=\"meta\" data-v-f1e39d7c=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"10\" result=\"blur\" data-v-f1e39d7c=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" type=\"matrix\" values=\"1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 19 -9\" result=\"goo\" data-v-f1e39d7c=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"goo\" operator=\"atop\" data-v-f1e39d7c=\"\"></feComposite></filter></defs></svg><span class=\"text__bullet\" data-v-f1e39d7c=\"\"><span class=\"text__bullet__el\" style=\"background:var(--c-accent);\" data-v-f1e39d7c=\"\"></span><span class=\"text__bullet__el\" style=\"background:var(--c-accent);\" data-v-f1e39d7c=\"\"></span></span><span class=\"js-text\" style=\"--y-percent:105%;--speed:0.75s;--stagger:0.1s;\" data-v-f1e39d7c=\"\" data-v-36321421=\"\"><!--[--><!--[-->Per rendere tutto più semplice, abbiamo raccolto qui le risposte alle domande più frequenti.<!--]--><!--]--></span></div><!--]--></div><div class=\"tabs\" data-v-b5d2359a=\"\" data-v-3b3fb8e2=\"\"><div class=\"tabs__labels\" style=\"--total:5;\" data-v-3b3fb8e2=\"\"><!--[--><button style=\"--index:0;--z-index:6;\" class=\"is-checked tabs__label__wrap\" data-v-3b3fb8e2=\"\"><input class=\"tabs__input\" type=\"radio\" name=\"tab\" id=\"tab-0\" checked=\"\" data-v-3b3fb8e2=\"\"><label data-v-3b3fb8e2=\"\" class=\"tabs__label ff-regular fs-50\" for=\"tab-0\"><span data-v-3b3fb8e2=\"\" class=\"tabs__label__bullet\" role=\"none\"></span> N°01</label></button><button style=\"--index:1;--z-index:4;\" class=\"tabs__label__wrap\" data-v-3b3fb8e2=\"\"><input class=\"tabs__input\" type=\"radio\" name=\"tab\" id=\"tab-1\" data-v-3b3fb8e2=\"\"><label data-v-3b3fb8e2=\"\" class=\"tabs__label ff-regular fs-50\" for=\"tab-1\"><span data-v-3b3fb8e2=\"\" class=\"tabs__label__bullet\" role=\"none\"></span> N°02</label></button><button style=\"--index:2;--z-index:3;\" class=\"tabs__label__wrap\" data-v-3b3fb8e2=\"\"><input class=\"tabs__input\" type=\"radio\" name=\"tab\" id=\"tab-2\" data-v-3b3fb8e2=\"\"><label data-v-3b3fb8e2=\"\" class=\"tabs__label ff-regular fs-50\" for=\"tab-2\"><span data-v-3b3fb8e2=\"\" class=\"tabs__label__bullet\" role=\"none\"></span> N°03</label></button><button style=\"--index:3;--z-index:2;\" class=\"tabs__label__wrap\" data-v-3b3fb8e2=\"\"><input class=\"tabs__input\" type=\"radio\" name=\"tab\" id=\"tab-3\" data-v-3b3fb8e2=\"\"><label data-v-3b3fb8e2=\"\" class=\"tabs__label ff-regular fs-50\" for=\"tab-3\"><span data-v-3b3fb8e2=\"\" class=\"tabs__label__bullet\" role=\"none\"></span> N°04</label></button><button style=\"--index:4;--z-index:1;\" class=\"tabs__label__wrap\" data-v-3b3fb8e2=\"\"><input class=\"tabs__input\" type=\"radio\" name=\"tab\" id=\"tab-4\" data-v-3b3fb8e2=\"\"><label data-v-3b3fb8e2=\"\" class=\"tabs__label ff-regular fs-50\" for=\"tab-4\"><span data-v-3b3fb8e2=\"\" class=\"tabs__label__bullet\" role=\"none\"></span> N°05</label></button><!--]--></div><div class=\"tabs__body\" data-v-3b3fb8e2=\"\" style=\"height: 575.5px;\"><div class=\"tabs__answers\" style=\"--extra-delay: 0; opacity: 0; height: 60px; width: 676px;\" data-v-3b3fb8e2=\"\"><!--[--><div class=\"is-active tab__content tab__answer ff-regular fs-40\" data-split=\"\" data-v-3b3fb8e2=\"\">Wemby è una piattaforma Web che permette di visualizzare e gestire un qualsiasi apparato che espone un'interfaccia digitale o digitalizzabile all’interno di un unico cruscotto secondo le proprie esigenze, sia in chiave analitica che predittiva.</div><div class=\"tab__content tab__answer ff-regular fs-40\" data-split=\"\" data-v-3b3fb8e2=\"\">Qualsiasi macchinario, dispositivo fisico, sensore o asset che espone o è potenzialmente abilitato ad esporre un'interfaccia digitale dunque, ad oggi, praticamente qualsiasi dispositivo fisico che viene connesso a una presa di corrente (e non solo).</div><div class=\"tab__content tab__answer ff-regular fs-40\" data-split=\"\" data-v-3b3fb8e2=\"\">Wembi è una piattaforma che si integra a un'architettura OT-IT distribuita e interamente open source: non ci sono dunque altri vincoli o restrizioni legate al pagamento di costi di licenza, recurrent fees o a una qualche policy di vendor lock in. Effettuata dunque la prima integrazione per l'attivazione del servizio l'utente sarà abilitato all'utilizzo del pannello con una formula al 100% \"pay per use\".</div><div class=\"tab__content tab__answer ff-regular fs-40\" data-split=\"\" data-v-3b3fb8e2=\"\">Semplificazione dell'adozione della soluzione e dell'onboarding, dell'esperienza di utilizzo, dell'integrazione e dell'interoperabilità rispetto a",
+  "contactText": "N.006\nCONTACT\nN.006\nIl tuo cambiamento parte da qui. Contattaci.\nMail\nPhone",
+  "contactHtml": "<div class=\"container\" data-v-a7d08666=\"\" data-v-20ef0dbd=\"\"><!--[--><div class=\"s-head sp-200\" style=\"color:var(--c-text);\" id=\"6\" data-v-a7d08666=\"\" data-v-7fa5451b=\"\"><div class=\"s-head__inner fs-base tt-u\" data-v-7fa5451b=\"\"><span data-v-7fa5451b=\"\">n.006</span><span class=\"s-head__title ta-c\" data-v-7fa5451b=\"\">CONTACT</span><span class=\"ta-r\" data-v-7fa5451b=\"\">n.006</span></div></div><h3 class=\"contact__title col-8-d col-5-m ta-c br fs-130 sp-100 ff-regular\" data-v-a7d08666=\"\">Il tuo cambiamento parte da qui. Contattaci.</h3><div class=\"pills\" data-v-a7d08666=\"\" data-v-ef5fca38=\"\"><svg class=\"pills-filter\" data-v-ef5fca38=\"\" data-v-b32a3099=\"\"><defs data-v-b32a3099=\"\"><filter id=\"v-0-0-2\" data-v-b32a3099=\"\"><feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"20\" result=\"blur\" data-v-b32a3099=\"\"></feGaussianBlur><feColorMatrix in=\"blur\" mode=\"matrix\" values=\"1 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 28 -20\" result=\"gooey\" data-v-b32a3099=\"\"></feColorMatrix><feComposite in=\"SourceGraphic\" in2=\"gooey\" operator=\"atop\" data-v-b32a3099=\"\"></feComposite></filter></defs></svg><ul class=\"pills-list\" style=\"--total:2;--filter-url:url(#v-0-0-2);\" data-v-ef5fca38=\"\"><!--[--><li class=\"pill\" style=\"--index:0;--bg:#BEFF8B;--color:var(--c-dark);\" data-v-ef5fca38=\"\"><a class=\"pill__link\" href=\"mailto:info@wembi.ai\" target=\"_blank\" data-v-ef5fca38=\"\"><span class=\"link pill__text fs-130 ff-regular\" style=\"--u-offset:0px;\" data-v-ef5fca38=\"\" data-v-bb9b6841=\"\"><span class=\"link__text\" data-v-bb9b6841=\"\" aria-label=\"Mail\"><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;Mail&quot;; --index: 0;\" data-label=\"Mail\"><!--[-->Mail<!--]--></div></div></span></span></a></li><li class=\"pill\" style=\"--index:1;--bg:#D5BAFB;--color:var(--c-dark);\" data-v-ef5fca38=\"\"><a class=\"pill__link\" href=\"tel:+393516097589\" target=\"_blank\" data-v-ef5fca38=\"\"><span class=\"link pill__text fs-130 ff-regular\" style=\"--u-offset:0px;\" data-v-ef5fca38=\"\" data-v-bb9b6841=\"\"><span class=\"link__text\" data-v-bb9b6841=\"\" aria-label=\"Phone\"><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;Phone&quot;; --index: 0;\" data-label=\"Phone\"><!--[-->Phone<!--]--></div></div></span></span></a></li><!--]--></ul></div><!--]--></div>",
+  "footerText": "Headquarter\nVia Cotonificio, 45\n\n33010 - Feletto Umberto\n\nUdine - Italy\nContact\nPhone - +39 351 609 7589\nMail - info@wembi.ai\nP.IVA & C.F. 03148630308\nWembi powered by Innoverse Group\nCookie\nPrivacy\nCredits",
+  "footerHtml": "<div class=\"footer__inner sp-60\" data-v-45c63d14=\"\"><div class=\"footer__col ff-regular\" data-v-45c63d14=\"\"><div class=\"footer__col__title\" data-v-45c63d14=\"\"><span class=\"footer__col__text sp-20 left fs-50\" data-v-45c63d14=\"\">Headquarter</span></div><div class=\"footer__col__content no-margin\" data-v-45c63d14=\"\"><a href=\"https://maps.app.goo.gl/KidxgpAS2TgGTrXc7\" target=\"_blank\" rel=\"noopener noreferrer\" data-v-45c63d14=\"\" data-cmp-ab=\"2\"><span class=\"link footer__col__text sp-60 left fs-50\" style=\"--u-offset:0px;\" data-v-45c63d14=\"\" data-v-bb9b6841=\"\"><span class=\"link__text\" data-v-bb9b6841=\"\" aria-label=\"Via Cotonificio, 4533010 - Feletto UmbertoUdine - Italy\"><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;Via Cotonificio, 45&quot;; --index: 0;\" data-label=\"Via Cotonificio, 45\"><!--[--><span data-v-45c63d14=\"\"></span><span data-v-45c63d14=\"\">Via Cotonificio, 45<br></span></div></div><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;33010 - Feletto Umberto&quot;; --index: 1;\" data-label=\"33010 - Feletto Umberto\"><span data-v-45c63d14=\"\">33010 - Feletto Umberto<br></span></div></div><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;Udine - Italy&quot;; --index: 2;\" data-label=\"Udine - Italy\"><span data-v-45c63d14=\"\">Udine - Italy</span><!--]--></div></div></span></span></a></div></div><div class=\"footer__col ff-regular\" data-v-45c63d14=\"\"><div class=\"footer__col__title\" data-v-45c63d14=\"\"><span class=\"footer__col__text sp-20 right fs-50\" data-v-45c63d14=\"\">Contact</span></div><div class=\"footer__col__content footer__col__content--right\" data-v-45c63d14=\"\"><a href=\"mailto:info@wembi.ai\" target=\"_blank\" data-v-45c63d14=\"\"><span class=\"link footer__col__text right fs-50\" style=\"--u-offset:0px;\" data-v-45c63d14=\"\" data-v-bb9b6841=\"\"><span class=\"link__text\" data-v-bb9b6841=\"\" aria-label=\"Phone - +39 351 609 7589\"><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;Phone - +39 351 609 7589&quot;; --index: 0;\" data-label=\"Phone - +39 351 609 7589\"><!--[--><span data-v-45c63d14=\"\"></span><span data-v-45c63d14=\"\">Phone - +39 351 609 7589</span><!--]--></div></div></span></span></a><a href=\"tel:+393516097589\" target=\"_blank\" data-v-45c63d14=\"\"><span class=\"link footer__col__text right fs-50\" style=\"--u-offset:0px;\" data-v-45c63d14=\"\" data-v-bb9b6841=\"\"><span class=\"link__text\" data-v-bb9b6841=\"\" aria-label=\"Mail - info@wembi.ai\"><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; --label: &quot;Mail - info@wembi.ai&quot;; --index: 0;\" data-label=\"Mail - info@wembi.ai\"><!--[--><span data-v-45c63d14=\"\"></span><span data-v-45c63d14=\"\">Mail - info@wembi.ai</span><!--]--></div></div></span></span></a><a data-v-45c63d14=\"\"><span class=\"link footer__col__text right fs-50 sp-60\" style=\"--u-offset:0px;\" data-v-45c63d14=\"\" data-v-bb9b6841=\"\"><span class=\"link__text\" data-v-bb9b6841=\"\" aria-label=\"P.IVA &amp; C.F. 03148630308\"><div class=\"link-line-mask\" aria-hidden=\"true\" style=\"position: relative; display: block; text-align: start; overflow: clip;\"><div class=\"link-line ta-c\" ari",
+  "fontFaceCss": "@font-face { font-display: swap; font-family: HaasUnicaSH-Medium; font-style: normal; src: url(\"../fonts/HaasUnicaSH-Medium.woff2\") format(\"woff2\"), url(\"../fonts/HaasUnicaSH-Medium.woff\") format(\"woff\"), url(\"../fonts/HaasUnicaSH-Medium.otf\") format(\"opentype\"); unicode-range: U+0-2A, U+2C-3F, U+41-FFFF; }\n@font-face { font-display: swap; font-family: HaasUnicaSH-Regular; font-style: normal; src: url(\"../fonts/HaasUnicaSH-Regular.woff2\") format(\"woff2\"), url(\"../fonts/HaasUnicaSH-Regular.woff\") format(\"woff\"), url(\"../fonts/HaasUnicaSH-Regular.otf\") format(\"opentype\"); unicode-range: U+0-2A, U+2C-3F, U+41-FFFF; }\n@font-face { font-display: swap; font-family: ductile; font-style: normal; src: url(\"../fonts/ductile.woff2\") format(\"woff2\"), url(\"../fonts/ductile.woff\") format(\"woff\"), url(\"/fonts/ductile.otf\") format(\"opentype\"); unicode-range: U+0-2A, U+2C-3F, U+41-FFFF; }\n.ff-base { font-family: HaasUnicaSH-Medium, Helvetica, sans-serif; }\n.ff-regular { font-family: HaasUnicaSH-Regular, Helvetica, sans-serif; }\n.ff-display { font-family: ductile, Helvetica, sans-serif; }\nbody { background-color: var(--c-bg); color: rgb(0, 0, 0); font-family: HaasUnicaSH-Medium, Helvetica, sans-serif; font-size: 1.6rem; line-height: 100%; overflow-x: hidden; overscroll-behavior-x: contain; -webkit-font-smoothing: antialiased; }\n",
+  "bodyBg": "rgb(237, 232, 232)",
+  "accentEls": [
+    {
+      "text": "N°001\nIl Gemello Digitale di ogni cosa",
+      "color": "rgb(190, 255, 139)",
+      "bg": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "faqExpanded": [
+    {
+      "full": "N.005\nQUESTIONS\nN.005\nFAQ\nPer rendere tutto più semplice, abbiamo\nraccolto qui le risposte alle domande più frequenti.\nN°01\nN°02\nN°03\nN°04\nN°05\nWemby è una piattaforma Web che permette di visualizzare e gestire un qualsiasi apparato che espone un'interfaccia digitale o digitalizzabile all’interno di un unico cruscotto secondo le proprie esigenze, sia in chiave analitica che predittiva.\nQualsiasi macchinario, dispositivo fisico, sensore o asset che espone o è potenzialmente abilitato ad esporre un'interfaccia digitale dunque, ad oggi, praticamente qualsiasi dispositivo fisico che viene connesso a una presa di corrente (e non solo).\nWembi è una piattaforma che si integra a un'architettura OT-IT distribuita e interamente open source: non ci sono dunque altri vincoli o restrizioni legate al pagamento di costi di licenza, recurrent fees o a una qualche policy di vendor lock in. Effettuata dunque la prima integrazione per l'attivazione del servizio l'utente sarà abilitato all'utilizzo del pannello con una formula al 100% \"pay per use\".\nSemplificazione dell'adozione della soluzione e dell'onboarding, dell'esperienza di utilizzo, dell'integrazione e dell'interoperabilità rispetto a qualsiasi altra piattaforma IoT EDGE ed EDGE AI esistente, efficientamento degli apparati a seguito della sua introduzione, risparmio economico consistente derivante dalla manutenzione predittiva, incremento dei cicli di produzione e riduzione dell'impatto ambientale.\nLa creazione della replica virtuale di un apparato fisico permette l'analisi e la completa gestione dei dispositivi che lo compongono, dei dati che circolano al suo interno e delle applicazioni in uso. Grazie a questo si è in grado di simulare il suo comportamento, lo stato e le prestazioni effettuando così un agevole monitoraggio, prevedendo eventuali problemi, ottimizzando e testando senza rischi, simulando scenari di incremento della produzione e di efficientamento energetico.\nDomanda\nIn sintesi che cos'è\nconcretamente Wembi?\nChe tipo di apparati possono\nessere connessi a Wembi?\nChe tipo di vincoli ci sono una\nvolta connesso l'apparato a\nWembi?\nQual è l'effettivo valore aggiunto\ndi Wembi?\nPerché dovrei voler creare il\nDigital Twin dei miei apparati?\nRead answer"
+    }
+  ],
+  "whereExpanded": [
+    {
+      "title": "Chiudi",
+      "body": "Wembi\nCampi di utilizzo\nChiudi\n\nAutomazione, digitalizzazione ed integrazione\ncon l'AI sono le sfide in cui gli apparati industriali\nsi stanno imbattendo per garantire un\nfunzionamento continuo e affidabile, spesso\nvincolato a lunghi cicli di vita e in ambienti\nmission critical.\n\nIndustrial\nIndustrial\nEnergy\nAerospace\nMedical"
+    },
+    {
+      "title": "Industrial",
+      "body": "Industrial"
+    },
+    {
+      "body": "Industrial"
+    },
+    {
+      "title": "Energy",
+      "body": "Energy"
+    },
+    {
+      "body": "Energy"
+    },
+    {
+      "title": "Aerospace",
+      "body": "Aerospace"
+    },
+    {
+      "body": "Aerospace"
+    },
+    {
+      "title": "Medical",
+      "body": "Medical"
+    },
+    {
+      "body": "Medical"
+    }
+  ],
+  "stepTabs": [
+    {
+      "si": 0,
+      "tabs": [],
+      "text": "01\nDigital Twin\nData\nDevice\nApplication\n\nAcquisizione e normalizzazione dei dati\nprovenienti dai dispositivi sul campo:\nraccolta, analisi e visualizzazione.\n\nGestione da remoto degli apparati fisici:\ncontrollo, manutenzione predittiva,\nottimizzazione ed integrazione.\n\nRegole e logiche di utilizzo: automazione,\nefficientamento, simulazione, predizione ed\nintegrazione con l'AI."
+    },
+    {
+      "si": 1,
+      "tabs": [],
+      "text": "02\nFunctioning\nAcquisizione\nControllo\nPredizione\n\nTrasformazione in tempo reale del\ncomportamento fisico dell’apparato in dati\ne informazioni digitali utili.\n\nInterpretazione e validazione dello stato di\nfunzionamento dell'intero apparato al fine\ndi poterlo gestire completamente.\n\nAnticipare il futuro: cosa potrà succedere\nall'apparato al manifestarsi o meno di una\ncerta eventualità."
+    }
+  ]
+}
