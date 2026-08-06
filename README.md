@@ -23,6 +23,16 @@
   <a href="https://vercel.com/new/clone?repository-url=https://github.com/abuzar310/cloneforge"><img src="https://vercel.com/button" alt="Deploy with Vercel" /></a>
 </p>
 
+<p align="center">
+  <a href="https://cloneforge-orcin.vercel.app"><b>Live demo →</b></a>
+</p>
+
+## Demo
+
+[![CloneForge pipeline](docs/design-references/cloneforge-demo.png)](https://cloneforge-orcin.vercel.app)
+
+> Live landing: [cloneforge-orcin.vercel.app](https://cloneforge-orcin.vercel.app) · click the image to open it.
+
 ---
 
 Point your AI coding agent at a URL, run `/clone-website`, and watch it:
@@ -60,6 +70,15 @@ Other agents: see [`AGENTS.md`](./AGENTS.md).
 
 `npm run dev` serves a **CloneForge** showcase page (forge aesthetic + pipeline UI).  
 Running `/clone-website` replaces `src/app/page.tsx` with your clone — that’s expected.
+
+**Smoke test included:** Playwright extraction of [example.com](https://example.com) → `/demos/example`
+
+```bash
+npm run smoke:example   # re-extract tokens + screenshot
+npm run dev             # open http://localhost:3000/demos/example
+```
+
+Artifacts: `docs/research/example.com/`, `docs/design-references/example.com/`
 
 ## Supported agents
 

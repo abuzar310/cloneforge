@@ -15,6 +15,12 @@ export default function Home() {
           </span>
           <div className="flex items-center gap-3 text-sm text-iron">
             <Link
+              href="/demos/example"
+              className="transition-colors hover:text-slag"
+            >
+              Smoke demo
+            </Link>
+            <Link
               href={`${REPO}#readme`}
               className="transition-colors hover:text-slag"
             >
